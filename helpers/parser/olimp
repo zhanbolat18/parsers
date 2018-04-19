@@ -1,0 +1,3418 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=1165" />
+<title>Olimp - Sport events list</title>
+
+<meta name="Keywords" content="Olimp, bookmaker, bet sport, bets prediction, bets championship, soccer bets, tennis bets, ice hockey bets, basketball bets,  betting tennis, betting football, betting basketball, betting soccer, betting hockey, gambling, bookmaker, bukmaker, olimp, olymp bet">
+<meta name="Description" content="Betting events: soccer, tennis, boxing, basketball, virtual football, totalizer and other sports. The highest odds! Big odds!"> <meta name="google-site-verification" content="0EKJGgrKRxkQod2DywVqd31pyy0B-H5HbvROLFhtXrs" />
+<script type="text/javascript" src="/img/jquery-1.7.1.min.js"></script>
+<script type="text/javascript">
+        var _paq = _paq || [];
+
+            </script>
+
+<script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-WKCH6JW');</script>
+
+<meta name="yandex-verification" content="45b962f55a27c65d">
+<meta name="yandex-verification" content="2e1923537c3f6634" />
+
+<script type="text/javascript">
+                (function (d, w, c) {
+                    (w[c] = w[c] || []).push(function () {
+                        try {
+                            w.yaCounter31030276 = new Ya.Metrika({
+                                id:                     31030276,
+                                clickmap: true,
+                                trackLinks: true,
+                                accurateTrackBounce: true,
+                                webvisor: true
+                            });
+                        } catch (e) {
+                        }
+                    });
+
+                    var n = d.getElementsByTagName('script')[0],
+                        s = d.createElement('script'),
+                        f = function () {
+                            n.parentNode.insertBefore(s, n);
+                        };
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = 'https://mc.yandex.ru/metrika/watch.js';
+
+                    if (w.opera == "[object Opera]") {
+                        d.addEventListener('DOMContentLoaded', f, false);
+                    } else {
+                        f();
+                    }
+                })(document, window, 'yandex_metrika_callbacks');
+            </script>
+<noscript>
+                <div><img src="//mc.yandex.ru/watch/31030276" style="position:absolute;left:-9999px;height:1px;" alt=""/></div>
+            </noscript>
+
+
+<script type="text/javascript">
+
+                var hide_addon = 'Hide additional bets';
+                var show_addon = 'Show additional bets';
+
+                var hide_all_addon = 'Hide all additional bets';
+                var show_all_addon = 'Show all additional bets';
+
+            </script>
+
+<link type="text/css" rel="stylesheet" href="/img/styles1.css?11226" />
+<link type="image/x-icon" rel="icon" href="/favicon.ico" />
+<link type="image/x-icon" rel="shortcut icon" href="/favicon.ico" />
+<script type="text/javascript" src="/img/common2.js?11226"></script>
+<script type="text/javascript" src="/js/languages/lang_L2.js?8"></script>
+<script type="text/javascript">
+        var MAXIMUM_PAYOUT = 500000000;
+        var MAXIMUM_ODD = 1000;
+        var CURRENCY_DIVIDER = 1;
+        var CURRENCY_DECIMALS = 0;
+        var IS_RU = 0;
+        var IS_COM = 1;
+    </script>
+<link type="text/css" rel="stylesheet" href="/css/ie10.css">
+<!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/css/ie.css">
+    <script>if (/*@cc_on!@*/false) {
+        document.documentElement.className += ' ie10';
+    }</script>
+    <![endif]-->
+
+
+<script>(function (w, d, s, l, i) {
+                    w[l] = w[l] || [];
+                    w[l].push({
+                        'gtm.start': new Date().getTime(), event: 'gtm.js'
+                    });
+                    var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                    j.async = true;
+                    j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                    f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-WKCH6JW');</script>
+
+<link rel="alternate" hreflang="x-default" href="https://olimp.com" />
+<link rel="alternate" hreflang="ru" href="https://olimp.com/index.php?action=setlang&id=0" />
+<link rel="alternate" hreflang="kk" href="https://olimp.com/index.php?action=setlang&id=1" />
+<link rel="alternate" hreflang="en" href="https://olimp.com/index.php?action=setlang&id=2" />
+<link rel="alternate" hreflang="zh" href="https://olimp.com/index.php?action=setlang&id=3" />
+<link rel="alternate" hreflang="it" href="https://olimp.com/index.php?action=setlang&id=5" />
+<link rel="alternate" hreflang="es" href="https://olimp.com/index.php?action=setlang&id=6" />
+<link rel="alternate" hreflang="uk" href="https://olimp.com/index.php?action=setlang&id=9" />
+<link rel="alternate" hreflang="ky" href="https://olimp.com/index.php?action=setlang&id=10" />
+<link rel="alternate" hreflang="ro" href="https://olimp.com/index.php?action=setlang&id=11" />
+<link rel="alternate" hreflang="fr" href="https://olimp.com/index.php?action=setlang&id=12" />
+<link rel="alternate" hreflang="pt" href="https://olimp.com/index.php?action=setlang&id=13" />
+<link rel="alternate" hreflang="tr" href="https://olimp.com/index.php?action=setlang&id=14" />
+</head>
+<body class="lang-en ">
+
+<noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKCH6JW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+<a name="top"></a>
+<div id="popOverlayOther"></div>
+<div class="authWindow">
+<button class="close-btn" id="close-btn"></button>
+<div class="authBody">
+<h1>Enter</h1>
+<form autocomplete="off" action="/index.php" method="post" id="authWindowForm">
+<div class="log-area clearfix">
+<div class="input-line errorTyped"><input type="text" placeholder="Login, e-mail or phone" title="Login, e-mail or phone" name="login">
+<span class="error-tooltip">
+<img src="/img/i_help.svg" class="errorIco">
+<span class="text">Telephone format: +(country code) (operator code) (number)</span>
+</span>
+</div>
+<div class="input-line errorTyped"><input type="password" placeholder="Password" name="passw">
+<span class="error-tooltip">
+<img src="/img/i_help.svg" class="errorIco">
+<span class="text">Check if CAPS LOCK is on</span>
+</span>
+</div>
+<a href="/index.php?page=recover" class="remember-pass">Forgot your ID?</a>
+<br>
+<br>
+<div class="errorBlock" style="display: none;"></div>
+<input type="checkbox" id="https" style="display:none;" checked="" value="1">
+<input type=hidden name='asid' value='3754291'><input type=hidden name='psid' value='fa986bde015337afc65d80bdaac85e6a'> </div>
+<div class="controls">
+<a href="#" class="red_button enterLinkBtn"><span>Enter</span></a>
+<a href="#" class="gray_button regLinkBtn registration-link-cupon"><span>Join Now</span></a>
+</div>
+</form>
+</div>
+</div>
+<link type="text/css" rel="stylesheet" href="/css/message.css?11226" />
+<style type="text/css">
+    .fontshad {
+        box-shadow: 0 0 15px 0 rgba(255, 0, 0, 1);
+        box-shadow: 0 0 15px 0 rgba(255, 0, 0, 1);
+        text-shadow: 4px 4px 4px, -4px -4px 4px, 4px -4px 4px, -4px 4px 4px;
+    }
+
+    .bonshad {
+        text-shadow: 3px 3px 3px white;
+    }
+
+    #eu2016_lnk {
+        display: block;
+        width: 100px;
+        height: 34px;
+        margin-right: 10px;
+        background: transparent url('/img/eu2016/logo.png?v=2') no-repeat center top;
+        text-decoration: none;
+        text-indent: -1000em;
+        overflow: hidden;
+    }
+
+    #eu2016_lnk:hover {
+        background-position: center bottom;
+    }
+
+    </style>
+<div id='registation_popUpOverlay'></div>
+<div class='registrationPopUp'></div>
+<div id='recover_popUpOverlay'></div>
+<div class='recoverPopUp'></div>
+<script type="text/javascript">
+    function flash_font(id) {
+        var el = $(id);
+        if ($(el).hasClass('fontshad')) {
+            $(el).removeClass('fontshad');
+        } else {
+            $(el).addClass('fontshad');
+        }
+    }
+
+    setInterval(function () {
+        flash_font('#vipfont');
+
+    }, 700);
+
+    setInterval(function () {
+
+    }, 700);
+
+    function flash_bonus(id) {
+        var el = $(id);
+        if ($(el).hasClass('bonshad')) {
+            $(el).removeClass('bonshad');
+        } else {
+            $(el).addClass('bonshad');
+        }
+    }
+        $(function () {
+        //******открытие попапа регистрации
+        $(document).delegate('.registration-link, .registration-link-cupon', 'click', function (e) {
+            e.preventDefault();
+                if ($(this).parents('body').hasClass('open')) {
+                    $(this).parents('body').removeClass('open');
+                    $(this).parents().find('.registrationPopUp, #popOverlayOther').fadeOut();
+                } else {
+                    $('#popOverlayOther').fadeIn();
+                    $('body').addClass('open');
+                    $('#popOverlayOther').html('<div style="position:absolute;left:45%;top:45%"><img width="100" src="/img/registration/progress_bar.gif"></div>');
+                    $.post('/ajax_index.php', {page: 'registration', action: 'get_page'},
+                        function (result) {
+                            if (result.stat == 1) {
+                                $('#popOverlayOther').html('');
+                                $('.registrationPopUp').html(result.data);
+                                $('.registrationPopUp').fadeIn();
+                            }
+                        }
+                        , 'json');
+                    $('.authWindow').hide();
+                }
+        });
+        //******открытие попапа восстановления данных
+        $('.remember-pass').on('click', function (e) {
+            e.preventDefault();
+            if ($(this).parents('body').hasClass('open')) {
+                    $(this).parents('body').removeClass('open');
+                    $(this).parents().find('.recoverPopUp, #popOverlayOther').fadeOut();
+                }
+                else {
+                    $('.authWindow').hide();
+                    $('#popOverlayOther').fadeIn();
+                    $('body').addClass('open');
+                    $('#popOverlayOther').html('<div style="position:absolute;left:45%;top:45%"><img width="100" src="/img/registration/progress_bar.gif"></div>');
+                    $.post('/ajax_index.php', {page: 'recover', action: 'get_page'},
+                        function (result) {
+                            if (result.stat === 1) {
+                                $('#popOverlayOther').html('');
+                                $('.recoverPopUp').html(result.data);
+                                $('.recoverPopUp').fadeIn();
+                            }
+                        }
+                        , 'json');
+                }
+        });
+    });
+    </script>
+<header class="">
+<div class="top-line clearfix">
+<div class="select-type-list clearfix">
+<div class="select-type-block">
+<div class="lang">
+<span class="title-lang-block">Interface language:</span>
+<div class="lang-item">
+<img src="/img/flag/l2.gif" />
+<span class="active">
+<span>English</span>
+</span>
+<noindex>
+<div class="lang-container" style="display: none;">
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=0'">
+<img src="/img/flag/l0.gif" /><span>Русский</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=2'" class="active">
+<img src="/img/flag/l2.gif" /><span>English</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=3'">
+<img src="/img/flag/l3.gif" /><span>中文</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=5'">
+<img src="/img/flag/l5.gif" /><span>Italiano</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=6'">
+<img src="/img/flag/l6.gif" /><span>Español</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=9'">
+<img src="/img/flag/l9.gif" /><span>Українська</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=10'">
+<img src="/img/flag/l10.gif" /><span>Кыргызча</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=11'">
+<img src="/img/flag/l11.gif" /><span>Română</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=12'">
+<img src="/img/flag/l12.gif" /><span>Français</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=13'">
+<img src="/img/flag/l13.gif" /><span>Português</span></div>
+ <div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=14'">
+<img src="/img/flag/l14.gif" /><span>Türkçe</span></div>
+<div rel="nofollow" onclick="window.location.href='index.php?action=setlang&id=8'">
+<img src="/img/flag/l8.gif" /><span>ქართული</span></div>
+</div>
+</noindex>
+</div>
+</div>
+</div>
+<div class="select-type-block fraction clearfix ">
+<div class="format">
+<span class="title-format-block">Odds format:</span>
+<div class="format-item">
+<span class="coefficient">1.75</span>
+<span class="active">
+<span>Decimal</span>
+</span>
+<div class="format-container" style="display: none;">
+<div onclick="window.location.href='index.php?action=setktype&id=0'" class="active"><span class="coefficient">1.75</span><span>Decimal</span></div>
+<div onclick="window.location.href='index.php?action=setktype&id=1'"><span class="coefficient">3/4</span><span>Fractional</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="select-type-block clearfix ">
+<div class="time">
+<span class="title-time-block">Timezone:</span>
+<div class="time-item">
+<span class="active">
+<span id='h0'>04:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523485105,'h0','',0, false);
+			            setInterval('wr_hoursSelect(1523485105,"h0","",0, false);',1000);
+		            </script> </span>
+<div class="time-container" style="display: none;">
+<div onclick="window.location='index.php?action=set_tmz&id=-1080&use_DST=0'"><span id='h1'>16:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523441905,'h1','-12:00',1, false);
+			            setInterval('wr_hoursSelect(1523441905,"h1","-12:00",1, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-1020&use_DST=0'"><span id='h2'>17:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523445505,'h2','-11:00',2, false);
+			            setInterval('wr_hoursSelect(1523445505,"h2","-11:00",2, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-960&use_DST=0'"><span id='h3'>18:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523449105,'h3','-10:00',3, false);
+			            setInterval('wr_hoursSelect(1523449105,"h3","-10:00",3, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-900&use_DST=0'"><span id='h4'>19:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523452705,'h4','-09:00',4, false);
+			            setInterval('wr_hoursSelect(1523452705,"h4","-09:00",4, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-840&use_DST=0'"><span id='h5'>20:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523456305,'h5','-08:00',5, false);
+			            setInterval('wr_hoursSelect(1523456305,"h5","-08:00",5, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-780&use_DST=0'"><span id='h6'>21:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523459905,'h6','-07:00',6, false);
+			            setInterval('wr_hoursSelect(1523459905,"h6","-07:00",6, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-720&use_DST=0'"><span id='h7'>22:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523463505,'h7','-06:00',7, false);
+			            setInterval('wr_hoursSelect(1523463505,"h7","-06:00",7, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-660&use_DST=0'"><span id='h8'>23:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523467105,'h8','-05:00',8, false);
+			            setInterval('wr_hoursSelect(1523467105,"h8","-05:00",8, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-600&use_DST=0'"><span id='h9'>00:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523470705,'h9','-04:00',9, false);
+			            setInterval('wr_hoursSelect(1523470705,"h9","-04:00",9, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-570&use_DST=0'"><span id='h10'>00:48:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523472505,'h10','-03:30',10, false);
+			            setInterval('wr_hoursSelect(1523472505,"h10","-03:30",10, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-540&use_DST=0'"><span id='h11'>01:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523474305,'h11','-03:00',11, false);
+			            setInterval('wr_hoursSelect(1523474305,"h11","-03:00",11, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-480&use_DST=0'"><span id='h12'>02:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523477905,'h12','-02:00',12, false);
+			            setInterval('wr_hoursSelect(1523477905,"h12","-02:00",12, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-420&use_DST=0'"><span id='h13'>03:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523481505,'h13','-01:00',13, false);
+			            setInterval('wr_hoursSelect(1523481505,"h13","-01:00",13, false);',1000);
+		            </script></div><div class="active"><span id='h14'>04:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523485105,'h14','',14, false);
+			            setInterval('wr_hoursSelect(1523485105,"h14","",14, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-300&use_DST=0'"><span id='h15'>05:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523488705,'h15','+01:00',15, false);
+			            setInterval('wr_hoursSelect(1523488705,"h15","+01:00",15, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-240&use_DST=0'"><span id='h16'>06:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523492305,'h16','+02:00',16, false);
+			            setInterval('wr_hoursSelect(1523492305,"h16","+02:00",16, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-180&use_DST=0'"><span id='h17'>07:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523495905,'h17','+03:00',17, false);
+			            setInterval('wr_hoursSelect(1523495905,"h17","+03:00",17, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-150&use_DST=0'"><span id='h18'>07:48:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523497705,'h18','+03:30',18, false);
+			            setInterval('wr_hoursSelect(1523497705,"h18","+03:30",18, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-120&use_DST=0'"><span id='h19'>08:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523499505,'h19','+04:00',19, false);
+			            setInterval('wr_hoursSelect(1523499505,"h19","+04:00",19, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-90&use_DST=0'"><span id='h20'>08:48:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523501305,'h20','+04:30',20, false);
+			            setInterval('wr_hoursSelect(1523501305,"h20","+04:30",20, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-60&use_DST=0'"><span id='h21'>09:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523503105,'h21','+05:00',21, false);
+			            setInterval('wr_hoursSelect(1523503105,"h21","+05:00",21, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-30&use_DST=0'"><span id='h22'>09:48:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523504905,'h22','+05:30',22, false);
+			            setInterval('wr_hoursSelect(1523504905,"h22","+05:30",22, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=-15&use_DST=0'"><span id='h23'>10:03:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523505805,'h23','+05:45',23, false);
+			            setInterval('wr_hoursSelect(1523505805,"h23","+05:45",23, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=0&use_DST=0'"><span id='h24'>10:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523506705,'h24','+06:00',24, false);
+			            setInterval('wr_hoursSelect(1523506705,"h24","+06:00",24, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=30&use_DST=0'"><span id='h25'>10:48:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523508505,'h25','+06:30',25, false);
+			            setInterval('wr_hoursSelect(1523508505,"h25","+06:30",25, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=60&use_DST=0'"><span id='h26'>11:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523510305,'h26','+07:00',26, false);
+			            setInterval('wr_hoursSelect(1523510305,"h26","+07:00",26, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=120&use_DST=0'"><span id='h27'>12:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523513905,'h27','+08:00',27, false);
+			            setInterval('wr_hoursSelect(1523513905,"h27","+08:00",27, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=180&use_DST=0'"><span id='h28'>13:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523517505,'h28','+09:00',28, false);
+			            setInterval('wr_hoursSelect(1523517505,"h28","+09:00",28, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=210&use_DST=0'"><span id='h29'>13:48:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523519305,'h29','+09:30',29, false);
+			            setInterval('wr_hoursSelect(1523519305,"h29","+09:30",29, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=240&use_DST=0'"><span id='h30'>14:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523521105,'h30','+10:00',30, false);
+			            setInterval('wr_hoursSelect(1523521105,"h30","+10:00",30, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=300&use_DST=0'"><span id='h31'>15:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523524705,'h31','+11:00',31, false);
+			            setInterval('wr_hoursSelect(1523524705,"h31","+11:00",31, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=360&use_DST=0'"><span id='h32'>16:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523528305,'h32','+12:00',32, false);
+			            setInterval('wr_hoursSelect(1523528305,"h32","+12:00",32, false);',1000);
+		            </script></div><div onclick="window.location='index.php?action=set_tmz&id=420&use_DST=0'"><span id='h33'>17:18:25</span>
+<script type='text/javascript'>
+			            wr_hoursSelect(1523531905,'h33','+13:00',33, false);
+			            setInterval('wr_hoursSelect(1523531905,"h33","+13:00",33, false);',1000);
+		            </script></div> </div>
+</div>
+</div>
+</div>
+<div class="select-type-block clearfix">
+<a class="g" href="http://new.4c5cf2.olimpcc44.top?utm_medium=refer&utm_source=olimp.com&utm_campaign=refer_olimp.com_oldsite_link_topmenu" style="font-weight:bold;white-space:nowrap;"><b>New version of the website</a>
+</div>
+</div>
+<div class="enter-block clearfix">
+<form autocomplete="off" action="https://olimp.com/index.php" method="post">
+<div class="log-area clearfix">
+<button type="submit" class="enterBtn"></button>
+<input type="text" placeholder="Login, e-mail or phone" title="Login, e-mail or phone" style="width: 162px !important;" name="login">
+<input type="password" placeholder="Password" name="passw">
+<input type=checkbox id="https" style="display:none;" checked value="1">
+<input type=hidden name='asid' value='9489409'><input type=hidden name='psid' value='fa986bde015337afc65d80bdaac85e6a'> </div>
+<a href="https://olimp.com/index.php?page=recover" class="remember-pass">Forgot your ID?</a>
+</form>
+</div>
+</div>
+<div class="mid-line clearfix">
+<div class="logo-block">
+<div class="logo">
+<a href="/index.php"><img src="/img/logo/logo_2.png?3" /></a>
+</div>
+</div>
+<div class="mid-menu-block com-menu">
+<div class="menu-wrapper">
+<ul class="mid-menu">
+<li class="active live-link">
+<a data-u="1" data-id="shlinelive" class="ashine" href="/betting">LIVE</a></li>
+<li><a data-id="shline" href="/index.php?page=line&action=1">Sports</a>
+</li>
+<li><a href="/betgames">BetGamesTV</a></li>
+
+<li><a href="/virtual-games">Virtual games</a></li><li><a href="/index.php?page=inbet">InBet</a></li> <li><a href="/index.php?page=ln">Lucky Numbers</a>
+</li>
+<li><a href="index.php?page=binary">Binary options</a></li>
+<li><a href="/bingo">Bingo</a></li><li><a href="/livecasino">Live Casino</a></li>
+</ul>
+</div>
+</div>
+<div class="value-block">
+<a href="https://olimp.com/index.php?page=regselect" class="registration-link"><span>Join Now</span></a>
+</div>
+</div>
+<div class="bottom-line">
+<ul class="bottom-menu">
+<li><a href="/index.php?page=bonus">Bonuses and promotions</a></li>
+<li><a href="/index.php?page=livecenter&action=lv">Results <span>live</span></a></li>
+<li><a href="/index.php?page=result">Results</a></li>
+<li><a href="/index.php?page=livecenter&action=st">Statistics</a>
+</li>
+<li><a href="/index.php?page=preview">Match previews</a>
+</li>
+<li><a href="/index.php?page=rules">Terms &amp; Conditions</a></li>
+<li><a href="/index.php?page=support">Support</a></li>
+<li><a href="/index.php?page=faqnew">FAQ</a></li>
+<li><a href="/index.php?page=about">About us</a></li>
+</ul>
+</div>
+</header>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style='min-width: 1024px;'>
+<tr>
+<td class="col_td" valign="top" id="oLeftSide">
+<div id="oLeftSideContainer">
+<script>
+                            $(document).ready(function () {
+
+                            });
+                            function fav_movement(a) {
+                                if ($(a).hasClass('active')) {
+                                    $(a).removeClass("active");
+                                    $(a).siblings('.content').slideUp(200);
+                                    $(a).css("display", "block");
+                                } else {
+                                    $("#favorites_blocks a").removeClass("active");
+                                    $(a).addClass("active");
+                                    $("#favorites_blocks .content").slideUp(200);
+                                    $(a).siblings('.content').slideDown(200);
+                                    $(a).css("display", "block");
+                                }
+                            }
+                        </script>
+<div id="favorites_win" class="favorites_content" style="display: none; ">
+<div class="title-block-name">
+<a href="#">Favourites</a>
+</div>
+<div id="favorites" class="accordion-container">
+</div>
+</div>
+<link rel="stylesheet" type="text/css" href="/css/searching.css?27" /> <!--[if !IE]><!-->
+<style>
+            .btn-search {
+                width: auto;
+                height: auto;
+            }
+        </style> <!--<![endif]-->
+<table class="smallwnd">
+<tr>
+<td>
+<div class="search-line-block">
+<input type="text" name="search" id="search_text" placeholder="Search" class="searching_input" />
+ <a type="button" id="search_button" href="#popup1" class="button-search button-red-history btn-search">
+<div class="searc_ico"></div>
+</a>
+</div>
+</td>
+</tr>
+</table>
+<script>
+            $('#search_button').click(function () {
+                var search = $('#search_text').val();
+                $(".search_items").html('');
+                $("#search_total").html('0');
+                if ((search.length > 2 && 3 != 2) || (3 == 2)) {
+                    //$.post('/api/ajax/search/', {'mod': 'site', 'search': search}, function (result) {
+                    $.get('/ajax_index.php', {'action': 'search', 'search': search, 'lang': '2'}, function (result) {
+                        $("#search_total").html(result.total);
+                        $(".search_items").html('');
+                        if (result.total > 0) {
+                            _paq.push(['trackSiteSearch', search, 'спорт', result.total]);
+                            $('.empty-search').hide();
+                            $('.popup-table').show();
+                            $(result.search).each(function () {
+                                $(".search_items").append('<div class="list-raw">' + '   <div class="popup-tab-left"><div class="kind ' + this.class + '">' + this.status + '</div></div>' + '	<div class="popup-tab-mid"><div class="date">' + this.date + '</div></div>' + '	<div class="popup-tab-right"><a href="' + this.url + '" style="color:#882211" target="_blank"><div class="title">' + this.name + '</div></a></div>' + '</div>');
+                            })
+                        }
+                        else {
+                            $('.empty-search').show();
+                            $('.popup-table').hide();
+                        }
+                    }, "json");
+                }
+                else {
+                    $('.empty-search').show();
+                    $('.popup-table').hide();
+                    return false;
+                }
+            });
+            $("#search_text").keypress(function (e) {
+                if (e.keyCode == 13) {
+                    $('#search_button')[0].click();
+                }
+            });
+            $('body').click(function (evt) {
+                if (evt.target.id == "popup1") {
+                    $('#close_history')[0].click();
+                }
+                if ($(evt.target).closest('#popup_search').length) {
+                    return;
+                }
+            });
+
+        </script>
+<div class="overlay_searching" id="overlay"></div>
+<div id="popup1" class="search-popup">
+<div class="popup-search">
+<div class="popup-header">
+<span class="zag">SEARCH RESULTS:</span>found <span id="search_total">0</span> </div>
+<div class="popup-table">
+<div class="list-raw tab-head">
+<div class="popup-tab-left">
+<div class="tab-header"></div>
+</div>
+<div class="popup-tab-mid">
+<div class="tab-header">Date</div>
+</div>
+<div class="popup-tab-right">
+<div class="tab-header">Event</div>
+</div>
+</div>
+<div class="main-list">
+<div style="max-height:350px; overflow:auto;">
+<div class="search_items">
+</div>
+</div>
+</div>
+</div>
+<a class="close-history" id="close_history" title="Close" href="#close"></a>
+<div class="empty-search" style="display: none;">
+ <div class="alert-search-text">
+<div>Sorry, no results found</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+            $("#search_text").keypress(function (e) {
+                if (e.keyCode == 13) {
+                    $('#search_button')[0].click();
+                    $(this).parents('body').addClass('overflow')
+                }
+                else {
+                    $(this).parents('body').removeClass('overflow')
+                }
+            });
+            /*$('body').click(function(evt){
+
+             if(evt.target.id == "popup1")
+             {$('#close_history')[0].click(); $('body').removeClass('overflow')}
+             if($(evt.target).closest('#popup_search').length)
+             { return;}
+
+             });*/
+
+            /*закрытие окна по еsc*/
+            $(document).ready(function () {
+                $('#search_button').click(function () {
+                    $(this).parents('body').addClass('overflow');
+                });
+                $(this).keydown(function (eventObject) {
+                    if (eventObject.which == 27) {
+                        $('body').removeClass('overflow')
+                    }
+                });
+            });
+            //******закрытие окна
+            $('#overlay, #close_history, #searchClose').on('click', function (e) {
+                e.preventDefault();
+                ($('body').removeClass('overflow'));
+            });
+        </script>
+<script>
+function flash_reg(id)
+{
+    var el = $(id);
+   if($(el).hasClass('fontshadcas'))
+   {
+	  $(el).removeClass('fontshadcas');
+	}else{
+	  $(el).addClass('fontshadcas');
+	}
+}
+function flash_cup(id)
+{
+    var el = $(id);
+   if($(el).hasClass('fontshadcas'))
+   {
+	  $(el).removeClass('fontshadcas');
+	}else{
+	  $(el).addClass('fontshadcas');
+	}
+}
+function flash_reg2(id)
+{
+    var el = $(id);
+   if($(el).hasClass('fontshadcas2'))
+   {
+	  $(el).removeClass('fontshadcas2');
+	}else{
+	  $(el).addClass('fontshadcas2');
+	}
+}
+setInterval(function(){
+		flash_reg('#ocasino');
+    }, 700);
+setInterval(function(){
+		flash_cup('#cup_confed');
+    }, 700);
+</script>
+<style type="text/css">
+.fontshadcas  {
+     //box-shadow: 0 0 15px 0 rgba(255, 0, 0, 1);
+     //box-shadow: 0 0 15px 0 rgba(255, 0, 0, 1);
+     //text-shadow: 1px 1px 1px, -1px -1px 1px, 1px -1px 1px, -1px 1px 1px;
+     text-shadow: 0 0 16px rgba(255, 0, 0, 0.8);
+}.fontshadcas2  {
+     //box-shadow: 0 0 15px 0 rgba(255, 0, 0, 1);
+     //box-shadow: 0 0 15px 0 rgba(255, 0, 0, 1);
+     //text-shadow: 1px 1px 1px, -1px -1px 1px, 1px -1px 1px, -1px 1px 1px;
+     text-shadow: 0 0 16px rgba(255, 0, 0, 0.8);
+}
+</style>
+<div class='title-block-name'><span>Bet now</span></div>
+<table class=smallwnd style='margin-top: 0;'>
+<tr class='m_c' style='background-color: #fff4b0;' align=middle></tr>
+<tr><td align=center>
+<center>
+<table width='90%'>
+<form id=shline name=shline method=post action='index.php'><tr><td class=ns colspan=2><a data-u="2" href='/betting'><b><font class=txtmed color=black>Bets</font> Live (26)</b></a></td><tr><td class=ns colspan=2><a href='/betgames'><b>
+<font class=txtmed color=black>BetGamesTV</font></font></b></a></td> <tr><td class=ns colspan=2><a href='/livecasino'><font class=txtmed color=black><b>Live Casino</b></font></a></td></tr>
+<tr><td class=ns colspan=2><a href='/virtual-games'><font class=txtmed color=black><b>Virtual games</b></font></a></td></tr>
+<tr><td class=ns colspan=2><a href='/index.php?page=inbet'><font class=txtmed color=black><b>InBet</b></font></a></td></tr>
+<tr><td class=ns colspan=2><a href='/betting/special-offers'><font class=txtmed color=black><b>Special offers</b></font></a></td></tr>
+
+<tr><td class="ns" colspan="2"><a href="index.php?page=ln"><font class="txtmed" color="black"><b>Lucky Numbers</b></font></a></td></tr><tr><td class=ns colspan=2><a href='index.php?page=binary'><font class=txtmed color=black><b>Binary options</b></font></a></td></tr>
+
+
+
+
+
+
+
+<tr><td class="ns" colspan="2"><a href="/bingo"><font class="txtmed" color="black"><b>Bingo</b></font></a></td></tr>
+<tr><td class="ns" colspan="2"><hr class="hr2"></td></tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/soccer" style="color:#000;">Soccer (1364)</a>
+</td>
+<td>
+<input id="c0" type="checkbox" name="sel[]" value="1" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/tennis" style="color:#000;">Tennis (162)</a>
+</td>
+<td>
+<input id="c1" type="checkbox" name="sel[]" value="3" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/basketball" style="color:#000;">Basketball (87)</a>
+</td>
+<td>
+<input id="c2" type="checkbox" name="sel[]" value="5" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/hockey" style="color:#000;">Ice Hockey (57)</a>
+</td>
+<td>
+<input id="c3" type="checkbox" name="sel[]" value="2" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/cybersport" style="color:#000;">eSports (74)</a>
+</td>
+<td>
+<input id="c4" type="checkbox" name="sel[]" value="112" />
+</td>
+</tr><tr><td class="ns" colspan="2"><hr class="hr2"></td></tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/american-football" style="color:#000;">American football (4)</a>
+</td>
+<td>
+<input id="c5" type="checkbox" name="sel[]" value="6" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/australian-football" style="color:#000;">Australian Rules (10)</a>
+</td>
+<td>
+<input id="c6" type="checkbox" name="sel[]" value="91" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/badminton" style="color:#000;">Badminton (31)</a>
+</td>
+<td>
+<input id="c7" type="checkbox" name="sel[]" value="51" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/baseball" style="color:#000;">Baseball (20)</a>
+</td>
+<td>
+<input id="c8" type="checkbox" name="sel[]" value="29" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/biathlon" style="color:#000;">Biathlon (2)</a>
+</td>
+<td>
+<input id="c9" type="checkbox" name="sel[]" value="7" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/boxing" style="color:#000;">Boxing (30)</a>
+</td>
+<td>
+<input id="c10" type="checkbox" name="sel[]" value="12" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/cricket" style="color:#000;">Cricket (10)</a>
+</td>
+<td>
+<input id="c11" type="checkbox" name="sel[]" value="73" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="index.php?page=line&action=1&sel[]=121" style="color:#000;">Culture (5)</a>
+</td>
+<td>
+<input id="c12" type="checkbox" name="sel[]" value="121" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/cycle-racing" style="color:#000;">Cycling (2)</a>
+</td>
+<td>
+<input id="c13" type="checkbox" name="sel[]" value="44" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/darts" style="color:#000;">Darts (8)</a>
+</td>
+<td>
+<input id="c14" type="checkbox" name="sel[]" value="47" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="index.php?page=line&action=1&sel[]=67" style="color:#000;">Field Hockey (4)</a>
+</td>
+<td>
+<input id="c15" type="checkbox" name="sel[]" value="67" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/floorball" style="color:#000;">Floorball (1)</a>
+</td>
+<td>
+<input id="c16" type="checkbox" name="sel[]" value="113" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/formula1" style="color:#000;">Formula 1 (3)</a>
+</td>
+<td>
+<input id="c17" type="checkbox" name="sel[]" value="33" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/futsal" style="color:#000;">Futsal (3)</a>
+</td>
+<td>
+<input id="c18" type="checkbox" name="sel[]" value="11" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/golf" style="color:#000;">Golf (11)</a>
+</td>
+<td>
+<input id="c19" type="checkbox" name="sel[]" value="90" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/handball" style="color:#000;">Handball (52)</a>
+</td>
+<td>
+<input id="c20" type="checkbox" name="sel[]" value="9" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/mma" style="color:#000;">MMA (36)</a>
+</td>
+<td>
+<input id="c21" type="checkbox" name="sel[]" value="96" />
+</td>
+ </tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="index.php?page=line&action=1&sel[]=117" style="color:#000;">Motorcycling (4)</a>
+</td>
+<td>
+<input id="c22" type="checkbox" name="sel[]" value="117" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="index.php?page=line&action=1&sel[]=120" style="color:#000;">NASCAR (2)</a>
+</td>
+<td>
+<input id="c23" type="checkbox" name="sel[]" value="120" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/rugby-league" style="color:#000;">Rugby League (28)</a>
+</td>
+<td>
+<input id="c24" type="checkbox" name="sel[]" value="85" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/rugby-union" style="color:#000;">Rugby Union (45)</a>
+</td>
+<td>
+<input id="c25" type="checkbox" name="sel[]" value="46" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="index.php?page=line&action=1&sel[]=54" style="color:#000;">Sailing (14)</a>
+</td>
+<td>
+<input id="c26" type="checkbox" name="sel[]" value="54" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/ski-jumping" style="color:#000;">Ski Jumping (1)</a>
+</td>
+<td>
+<input id="c27" type="checkbox" name="sel[]" value="39" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/snooker" style="color:#000;">Snooker (43)</a>
+</td>
+<td>
+<input id="c28" type="checkbox" name="sel[]" value="4" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="/betting/volleyball" style="color:#000;">Volleyball (44)</a>
+</td>
+<td>
+<input id="c29" type="checkbox" name="sel[]" value="10" />
+</td>
+</tr>
+<tr valign="top">
+<td class="ns">
+<a class="txtmed" href="index.php?page=line&action=1&sel[]=41" style="color:#000;">Water Polo (2)</a>
+</td>
+<td>
+<input id="c30" type="checkbox" name="sel[]" value="41" />
+</td>
+</tr><script language='javascript'>
+                var checked=0;
+                function selall()
+                {
+                    if(checked==0) checked=1;
+                    else checked=0;
+                    for(var ci=0;ci<31;ci++)
+                        document.getElementById('c'+ci).checked=checked;
+                    if(checked==0) document.getElementById('selall').innerHTML='<a href=\'javascript:selall();\'>Select all (2159)</a>';
+                    else document.getElementById('selall').innerHTML='<a href=\'javascript:selall();\'>Cancel all (2159)</a>'
+                }
+                </script><tr><td nowrap colspan=2 align=left>
+<a href='/betting/outright'><b>Outrights</b></a>
+</td></tr><tr><td colspan=2 id="selall" align="middle"><a href="javascript:selall();">Select all (2159)</a></td></tr><tr><td nowrap colspan=2 align=middle><INPUT type=submit value='Show' onclick='javascript:this.disabled=1;this.form.submit();' class=msbtn1> </td>
+</tr>
+<input type="hidden" name="page" value="line" />
+<input type="hidden" name="action" value="1" />
+</form>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<TD class=central_td vAlign=top id="central_td">
+<center><H1 style="margin-bottom: 0px;">
+ Live-Bets </H1>
+<script language='JavaScript'>
+                    var h_int_live = null;
+                    function save_upd_live() {
+                        var obj_refresh_live = document.getElementById('refresh_live');
+                        if (obj_refresh_live) {
+                            if (obj_refresh_live.checked) {
+                                document.cookie = 'upd_disable_live=0;';
+                                change_rr_live();
+                            } else {
+                                document.cookie = 'upd_disable_live=1;';
+                                if (h_int_live) {
+                                    clearInterval(h_int_live);
+                                }
+                            }
+                        }
+                    }
+                    function ajax_reload_live() {
+                        var ai = new AJAXInteraction('ajax_index.php?page=line&live=1', function (str) {
+                            document.getElementById('central_td').innerHTML = str;
+                            var arr = str.match(/v[0-9]{1,} = [0-9]{1,}(, vl = [0-9]{1,})?, vc[0-9]{1,} = [0-9]{1,}, ordc[0-9]{1,} = [0-9]{1,};/ig);
+                            for (var i = 0; i < arr.length; i++) {
+                                eval(arr[i]);
+                            }
+                        });
+                        ai.doPost();
+                    }
+                    function change_rr_live() {
+                        var rr = 30;
+                        var obj_refresh_live = document.getElementById('refresh_live');
+                        var obj_refrate_live = document.getElementById('refrate_live');
+                        if (obj_refresh_live && obj_refrate_live) {
+                            if (!obj_refresh_live.checked) {
+                                if (h_int_live) {
+                                    clearInterval(h_int_live);
+                                }
+                                return;
+                            }
+                            if (obj_refrate_live != 'undefined' && obj_refrate_live != null) {
+                                rr = obj_refrate_live.value;
+                            }
+                            document.cookie = 'refrate_live=' + rr + ';';
+                            if (h_int_live) {
+                                clearInterval(h_int_live);
+                            }
+                            h_int_live = setInterval('ajax_reload_live()', rr * 1000);
+                        }
+                    }
+                    document.addEventListener("DOMContentLoaded", function () {
+                        change_rr_live();
+                    });
+                    function getCookie(name) {
+                        var cookie = " " + document.cookie;
+                        var search = " " + name + "=";
+                        var setStr = null;
+                        var offset = 0;
+                        var end = 0;
+                        if (cookie.length > 0) {
+                            offset = cookie.indexOf(search);
+                            if (offset != -1) {
+                                offset += search.length;
+                                end = cookie.indexOf(";", offset)
+                                if (end == -1) {
+                                    end = cookie.length;
+                                }
+                                setStr = unescape(cookie.substring(offset, end));
+                            }
+                        }
+                        return (setStr);
+                    }
+                </script>
+<form name="BetLine" action="index.php" method=get>
+<input type="hidden" name="page" value="line" /> <input type="hidden" name="action" value="2" />
+<input type="hidden" name="currpage" value="live" /> <input type="hidden" name="time" value="0" /> <table class="smallwnd3 live_main_table" style="width:99%">
+<div class="filter-live clearfix">
+<div id="updateLive" class="filterBlock-section" style="left: 0;">
+<input type='checkbox' checked='checked' id="refresh_live" value='1' onclick="javascript:save_upd_live();" />
+<b>
+<a href="javascript:window.location='/betting';">Refresh</a>
+the page automatically (every <select id="refrate_live" class="loginbox" style="width:45px" onChange="javascript:change_rr_live();">
+<option value="9">5</option>
+<option value="30" selected="selected">30
+</option>
+<option value="60">60</option>
+</select>
+sec) </b>
+</div>
+<div class="filterBlock-section pull-right">
+<div class="text_block_2">
+<label>
+<input onchange="checkAll(this);" type="checkbox" data-sport="1" class="live_sports checkbox">
+<span style="vertical-align: 2px;">
+Soccer </span>
+</label>
+</div>
+</div>
+<div class="filterBlock-section pull-right">
+<div class="text_block_2">
+<label>
+<input onchange="checkAll(this);" type="checkbox" data-sport="3" class="live_sports checkbox">
+<span style="vertical-align: 2px;">
+Tennis </span>
+</label>
+</div>
+</div>
+<div class="filterBlock-section pull-right">
+<div class="text_block_2">
+<label>
+<input onchange="checkAll(this);" type="checkbox" data-sport="5" class="live_sports checkbox">
+<span style="vertical-align: 2px;">
+Basketball </span>
+</label>
+</div>
+</div>
+<div class="filterBlock-section pull-right">
+<div class="text_block_2">
+<label>
+<input onchange="checkAll(this);" type="checkbox" data-sport="10" class="live_sports checkbox">
+<span style="vertical-align: 2px;">
+Volleyball </span>
+</label>
+</div>
+</div>
+<div class="filterBlock-section pull-right">
+<div class="text_block_2">
+<label>
+<input onchange="checkAll(this);" type="checkbox" data-sport="2" class="live_sports checkbox">
+<span style="vertical-align: 2px;">
+Ice Hockey </span>
+</label>
+</div>
+</div>
+<div class="filterBlock-section pull-right">
+<div class="text_block_2" style="float: left; margin: 4px 0 0 0; ">
+<label><input disabled id="filterActivated" type="checkbox" class="checkbox">
+</label>
+</div>
+<div class="dropSportFilter" style="min-width: 220px; float: left;">
+<div class="btn" onclick="showSportsMenu();"><span>Filter by sports</span></div>
+<div class="sportFilter" id="showMe">
+<div class="col">
+<div>
+<input class="chk-link" type="button" value="Select all" onclick="check(this.form.list,1);"></div>
+<div class="text_block_2">
+<label>
+<input onchange="checkAll(this);" type="checkbox" class="live_sports checkbox" name="list" data-sport="29">Baseball </label>
+</div>
+</div>
+<div class="col">
+<div>
+<input class="chk-link" type="button" value="Disselect" onclick="check(this.form.list,0);">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            function getCookie(name) {
+                var matches = document.cookie.match(new RegExp(
+                    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+                ));
+                return matches ? decodeURIComponent(matches[1]) : undefined;
+            }
+
+            var vvv = getCookie("showlivefilter") == "none" ? 0 : 1;
+
+            function sortLiveList() {
+                if ($(".live_sports:checked").length == 0) {
+                    cookMe("liveFilterEnabled", "0");
+                } else {
+                    cookMe("liveFilterEnabled", "1");
+                }
+
+                if (getCookie("liveFilterEnabled") == "1") {
+                    $(".live_sports").each(function () {
+                        if ($(this).is(":checked")) {
+                            if ($(".sportArrowForSportId-" + $(this).data("sport")).hasClass('arrowRightDynamic')) {
+                                $('.forLiveFilter[data-sport="' + $(this).data("sport") + '"]').show();
+                            } else {
+                                $('.forLiveFilter[data-sport="' + $(this).data("sport") + '"][data-kek="arrow"]').show();
+                            }
+                        } else {
+                            $('.forLiveFilter[data-sport="' + $(this).data("sport") + '"]').hide();
+                        }
+                    });
+                } else {
+                    $(".forLiveFilter").each(function () {
+                        if ($(this).data("kek") == "arrow") {
+                            $(this).show();
+                        } else {
+                            if ($(".sportArrowForSportId-" + $(this).data("sport")).hasClass('arrowRightDynamic')) {
+                                $(this).show();
+                            }
+                        }
+                    });
+                }
+                if ($(".forLiveFilter").filter(":visible").length == 0) {
+                    $("#noResults").show();
+                    $("#submitLiveMatches").hide();
+                    cookMe("hasResults", "none")
+                } else {
+                    $("#submitLiveMatches").show();
+                    $("#noResults").hide();
+                    cookMe("hasResults", "table-row")
+                }
+            }
+
+            function check(field, flag) {
+                if (flag == "1") {
+                    $('input[type=checkbox][name="list"]').each(function () {
+                        cookMe("livesport" + $(this).data("sport"), "checked");
+                        $(this).prop("checked", true);
+                    });
+                    cookMe("checkIt", "checked");
+                    $("#filterActivated").prop("checked", true);
+                }
+                else {
+                    $('input[type=checkbox][name="list"]').each(function () {
+                        cookMe("livesport" + $(this).data("sport"), "");
+                        $(this).prop("checked", false);
+                    });
+                    cookMe("checkIt", "");
+                    $("#filterActivated").prop("checked", false);
+                }
+                sortLiveList();
+            }
+
+            /*скрытие блока фильтра по видам спорта при клике за пределами*/
+
+
+            function showSportsMenu() {
+                console.log($("#showMe").css("display"));
+
+                if ($("#showMe").hasClass("opened")) {
+                    $("#showMe").css("display", "none");
+                    $("#showMe").removeClass("opened");
+                } else {
+                    $("#showMe").css("display", "block");
+                    $("#showMe").addClass("opened");
+                }
+
+                if ($("#showMe").is(":visible")) {
+                    cookMe("showlivefilter", "block");
+                } else {
+                    cookMe("showlivefilter", "none");
+                }
+            }
+
+            $(document).mouseup(function (e) {
+                var container = $("#showMe");
+                if (container.has(e.target).length === 0) {
+                    container.hide();
+                    vvv = 0;
+                }
+                if ($("#showMe").is(":visible")) {
+                    cookMe("showlivefilter", "block");
+                } else {
+                    cookMe("showlivefilter", "none");
+                }
+            });
+
+            function checkAll(aaa) {
+                cookMe("checkIt", $('.live_sports[name="list"]:checked').length == 0 ? "" : "checked");
+                $("#filterActivated").prop("checked", $('.live_sports[name="list"]:checked').length == 0 ? false : true);
+
+                var el = $(aaa);
+                if (el.is(":checked")) {
+                    $(".sportArrowForSportId-" + el.data("sport")).show();
+                    cookMe("livesport" + el.data("sport"), "checked");
+                } else {
+                    cookMe("livesport" + el.data("sport"), "");
+                }
+                sortLiveList();
+            }
+
+            function set_match_checked(matchid) {
+                var obj_matchidcb = document.getElementById('matchidcb' + matchid);
+                if (obj_matchidcb) {
+                    if (obj_matchidcb.checked) {
+                        document.cookie = "matchidcb" + matchid + "=1;";
+                    }
+                    else {
+                        document.cookie = "matchidcb" + matchid + "=0;";
+                    }
+                }
+            }
+
+            function cookMe(name, val) {
+                document.cookie = name + "=" + val;
+            }
+        </script>
+<tr class="m_c" align="middle" id="liveMainHeader">
+<td width="1%" align="center" valign="middle">
+<input type="checkbox" onclick="javascript:set_lcheck(vl, this.checked);" />
+</td>
+<td class="smwndcap" width="99%" colspan="2" align="center" valign="middle">
+<font class="g">Live</font>-Bets </td>
+</tr> <script type="text/javascript">
+                        var v0 = 0, vc0 = 0, ordc0 = 0;
+                    </script> <tr>
+<td colspan="3" data-sport="1" data-kek="arrow" class="liveMainSport forLiveFilter">
+<a id="a1" href="javascript:set_lshow(0, ordc1, 1, 1);">
+<div style="float:left;margin-right:5px;">
+<span class="sportArrowForSportId-1 arrowRightDynamic"></span>
+</div>
+</a> <a href="javascript:set_lcheck2(v0, v1, vc1, 1);">
+<b>Soccer</b> </a>
+</td>
+</tr>
+<tr data-sport="1" data-kek="row" id=s0 class="sportIdOfMatchTr-1 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39384827" onclick="set_match_checked(39384827)" type="checkbox" name="live[]" value="39384827" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="1:39384827"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39384827" href="index.php?page=line&action=2&live[]=39384827&sid[]=1">LA Galaxy II - Phoenix Rising<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(13963853,1, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco1"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">0:1 (0:0) 83", Corners 3:3</font> </td>
+</tr> <script type="text/javascript">
+                        var v1 = 1, vc1 = 0, ordc1 = 1;
+                    </script> <tr class="bg">
+<td colspan="3" data-sport="3" data-kek="arrow" class="liveMainSport forLiveFilter">
+<a id="a2" href="javascript:set_lshow(1, ordc2, 2, 3);">
+<div style="float:left;margin-right:5px;">
+<span class="sportArrowForSportId-3 arrowRightDynamic"></span>
+</div>
+</a> <a href="javascript:set_lcheck2(v1, v2, vc2, 2);">
+<b>Tennis</b> </a>
+</td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s1 class="bg sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39328898" onclick="set_match_checked(39328898)" type="checkbox" name="live[]" value="39328898" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39328898"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39328898" href="index.php?page=line&action=2&live[]=39328898&sid[]=3">Kuznetsova S. - Barthel M. <img src="/img/ball3.svg" class="sport-ico" alt="Serve" /><div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14285305,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">1:1 (6:4, 3:6, 4:3) 0:0, Match Suspended</font> </td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s2 class="sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39328900" onclick="set_match_checked(39328900)" type="checkbox" name="live[]" value="39328900" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39328900"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39328900" href="index.php?page=line&action=2&live[]=39328900&sid[]=3"><img src="/img/ball3.svg" class="sport-ico" alt="Serve"> Flipkens K. - Witthoeft C.<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14285303,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">1:1 (1:6, 6:4, 4:3) 40:A, Match Suspended</font> </td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s3 class="bg sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39384807" onclick="set_match_checked(39384807)" type="checkbox" name="live[]" value="39384807" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39384807"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39384807" href="index.php?page=line&action=2&live[]=39384807&sid[]=3"><img src="/img/ball3.svg" class="sport-ico" alt="Serve"> Frech M. - Voegele S.<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14311311,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">0:1 (3:6, 0:1) 0:0, Match Suspended</font> </td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s4 class="sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39369670" onclick="set_match_checked(39369670)" type="checkbox" name="live[]" value="39369670" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39369670"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39369670" href="index.php?page=line&action=2&live[]=39369670&sid[]=3"><img src="/img/ball3.svg" class="sport-ico" alt="Serve"> Namigata J. - Kaji H.<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14305521,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">0:0 (4:4) 40:40</font> </td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s5 class="bg sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39391830" onclick="set_match_checked(39391830)" type="checkbox" name="live[]" value="39391830" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39391830"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39391830" href="index.php?page=line&action=2&live[]=39391830&sid[]=3"><img src="/img/ball3.svg" class="sport-ico" alt="Serve"> Aiava D. - Liang E.<div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14311849,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">1:0 (6:3, 1:2) 40:15</font> </td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s6 class="sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39391831" onclick="set_match_checked(39391831)" type="checkbox" name="live[]" value="39391831" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39391831"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39391831" href="index.php?page=line&action=2&live[]=39391831&sid[]=3">Nara K. - Lee Y.-H. <img src="/img/ball3.svg" class="sport-ico" alt="Serve" /><div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14311827,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">0:0 (5:2) 15:0</font> </td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s7 class="bg sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39377904" onclick="set_match_checked(39377904)" type="checkbox" name="live[]" value="39377904" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39377904"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39377904" href="index.php?page=line&action=2&live[]=39377904&sid[]=3">Takeshima S. - Tajima N. <img src="/img/ball3.svg" class="sport-ico" alt="Serve" /><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14306753,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">0:0 (2:1) 40:40</font> </td>
+</tr>
+<tr data-sport="3" data-kek="row" id=s8 class="sportIdOfMatchTr-3 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39397614" onclick="set_match_checked(39397614)" type="checkbox" name="live[]" value="39397614" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="3:39397614"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39397614" href="index.php?page=line&action=2&live[]=39397614&sid[]=3"><img src="/img/ball3.svg" class="sport-ico" alt="Serve"> Arevalo M./Reyes-Varela M.-A. - Maytin R./ Quiroz R.<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14285889,3, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco3"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">0:1 (0:6, 1:1) 40:30</font> </td>
+</tr> <script type="text/javascript">
+                        var v2 = 9, vc2 = 0, ordc2 = 9;
+                    </script> <tr class="bg">
+<td colspan="3" data-sport="5" data-kek="arrow" class="liveMainSport forLiveFilter">
+<a id="a3" href="javascript:set_lshow(9, ordc3, 3, 5);">
+<div style="float:left;margin-right:5px;">
+<span class="sportArrowForSportId-5 arrowRightDynamic"></span>
+</div>
+</a> <a href="javascript:set_lcheck2(v2, v3, vc3, 3);">
+<b>Basketball</b> </a>
+</td>
+</tr>
+<tr data-sport="5" data-kek="row" id=s9 class="bg sportIdOfMatchTr-5 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39381774" onclick="set_match_checked(39381774)" type="checkbox" name="live[]" value="39381774" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="5:39381774"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39381774" href="index.php?page=line&action=2&live[]=39381774&sid[]=5">Portland Trail Blazers - Utah Jazz<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(12235016,5, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco5"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">74:57 (28:21, 27:20, 19:16) < 2:17" 3rd quarter</font> </td>
+</tr>
+<tr data-sport="5" data-kek="row" id=s10 class="sportIdOfMatchTr-5 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39409480" onclick="set_match_checked(39409480)" type="checkbox" name="live[]" value="39409480" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="5:39409480"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39409480" href="index.php?page=line&action=2&live[]=39409480&sid[]=5">Portland Trail Blazers (scorer markets) - Utah Jazz (scorer markets)</a>
+<br /><font class="txtmed" style="color:red;">23:9 </font><br><font class="txtmed"><i>Suspended</i></font> </td>
+</tr>
+<tr data-sport="5" data-kek="row" id=s11 class="bg sportIdOfMatchTr-5 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39393383" onclick="set_match_checked(39393383)" type="checkbox" name="live[]" value="39393383" />
+</td>
+<td width="1%" align="center" valign="middle">
+ <a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="5:39393383"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39393383" href="index.php?page=line&action=2&live[]=39393383&sid[]=5">Los Angeles Clippers - Los Angeles Lakers<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(12235014,5, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco5"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">78:96 (32:39, 21:25, 21:28, 4:4) < 9:29" 4th quarter</font> </td>
+</tr>
+<tr data-sport="5" data-kek="row" id=s12 class="sportIdOfMatchTr-5 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39394207" onclick="set_match_checked(39394207)" type="checkbox" name="live[]" value="39394207" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="5:39394207"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39394207" href="index.php?page=line&action=2&live[]=39394207&sid[]=5">Sacramento Kings - Houston<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(12235018,5, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco5"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">79:63 (28:22, 24:22, 27:19, 0:0) < 11:43" 4th quarter</font> </td>
+</tr>
+<tr data-sport="5" data-kek="row" id=s13 class="bg sportIdOfMatchTr-5 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39399241" onclick="set_match_checked(39399241)" type="checkbox" name="live[]" value="39399241" />
+</td>
+ <td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="5:39399241"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39399241" href="index.php?page=line&action=2&live[]=39399241&sid[]=5">Halcones de Ciudad Obregón - Rayos de Hermosillo<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">46:52 (25:21, 17:25, 4:6) < 7:57" 3rd quarter</font> </td>
+</tr>
+<tr data-sport="5" data-kek="row" id=s14 class="sportIdOfMatchTr-5 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39399242" onclick="set_match_checked(39399242)" type="checkbox" name="live[]" value="39399242" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="5:39399242"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39399242" href="index.php?page=line&action=2&live[]=39399242&sid[]=5">Ostioneros de Guaymas - Zonkeys de Tijuana</a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">37:43 (21:26, 16:17) Half-time</font> </td>
+</tr> <script type="text/javascript">
+                        var v3 = 15, vc3 = 0, ordc3 = 15;
+                    </script> <tr class="bg">
+<td colspan="3" data-sport="2" data-kek="arrow" class="liveMainSport forLiveFilter">
+<a id="a4" href="javascript:set_lshow(15, ordc4, 4, 2);">
+<div style="float:left;margin-right:5px;">
+<span class="sportArrowForSportId-2 arrowRightDynamic"></span>
+</div>
+</a> <a href="javascript:set_lcheck2(v3, v4, vc4, 4);">
+<b>Ice Hockey</b> </a>
+</td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s15 class="bg sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39332005" onclick="set_match_checked(39332005)" type="checkbox" name="live[]" value="39332005" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39332005"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39332005" href="index.php?page=line&action=2&live[]=39332005&sid[]=2">Vegas Golden Knights - Los Angeles Kings<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div><div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14285551,2, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco2"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">1:0 (1:0, 0:0, 0:0) 48" 3rd period</font>  </td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s16 class="sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39409485" onclick="set_match_checked(39409485)" type="checkbox" name="live[]" value="39409485" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39409485"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39409485" href="index.php?page=line&action=2&live[]=39409485&sid[]=2">Vegas Golden Knights (penalty time) - Los Angeles Kings (penalty time)</a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">3:3 (2:1, 1:2, 0:0) 48" 3rd period</font> </td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s17 class="bg sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39409483" onclick="set_match_checked(39409483)" type="checkbox" name="live[]" value="39409483" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39409483"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39409483" href="index.php?page=line&action=2&live[]=39409483&sid[]=2">Vegas Golden Knights (shots on goal) - Los Angeles Kings (shots on goal)</a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">19:20 (8:12, 11:8, 0:0)</font><br><font class="txtmed"><i>Suspended</i></font> </td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s18 class="sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39357213" onclick="set_match_checked(39357213)" type="checkbox" name="live[]" value="39357213" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39357213"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+ <a id="match_live_name_39357213" href="index.php?page=line&action=2&live[]=39357213&sid[]=2">San Diego Gulls - Tucson<div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(12640240,2, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco2"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">0:3 (0:0, 0:2, 0:1) < 4" 3rd period</font> </td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s19 class="bg sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39357911" onclick="set_match_checked(39357911)" type="checkbox" name="live[]" value="39357911" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39357911"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39357911" href="index.php?page=line&action=2&live[]=39357911&sid[]=2">Stockton Heat - Ontario Reign<div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(12640238,2, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco2"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">6:3 (3:2, 3:0, 0:1) < 3" 3rd period</font> </td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s20 class="sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39393398" onclick="set_match_checked(39393398)" type="checkbox" name="live[]" value="39393398" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39393398"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39393398" href="index.php?page=line&action=2&live[]=39393398&sid[]=2">Swift Current Broncos - Moose Jaw Warriors<div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14256055,2, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco2"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">2:2 (1:0, 0:2, 1:0), Extra time 0:0 < 1"</font><br><font class="txtmed"><i>Suspended</i></font> </td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s21 class="bg sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39393399" onclick="set_match_checked(39393399)" type="checkbox" name="live[]" value="39393399" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39393399"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39393399" href="index.php?page=line&action=2&live[]=39393399&sid[]=2">Tri-City Americans - Victoria Royals<div style="float:left;margin-right: 3px;padding-top:6px;">
+<a href="javascript:openmtbr(14255897,2, true, 'en', 'Etc:UTC');">
+<span class="fieldIco fieldIco2"></span>
+</a>
+</div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">5:3 (3:1, 0:2, 2:0) < 1" 3rd period</font><br><font class="txtmed"><i>Suspended</i></font> </td>
+</tr>
+<tr data-sport="2" data-kek="row" id=s22 class="sportIdOfMatchTr-2 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39406541" onclick="set_match_checked(39406541)" type="checkbox" name="live[]" value="39406541" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="2:39406541"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39406541" href="index.php?page=line&action=2&live[]=39406541&sid[]=2">Medvedi - Kaspi</a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">1:1 (1:0, 0:1) 34" 2nd period</font> </td>
+</tr> <script type="text/javascript">
+                        var v4 = 23, vc4 = 0, ordc4 = 23;
+                    </script> <tr class="bg">
+<td colspan="3" data-sport="29" data-kek="arrow" class="liveMainSport forLiveFilter">
+<a id="a5" href="javascript:set_lshow(23, ordc5, 5, 29);">
+<div style="float:left;margin-right:5px;">
+<span class="sportArrowForSportId-29 arrowRightDynamic"></span>
+</div>
+</a> <a href="javascript:set_lcheck2(v4, v5, vc5, 5);">
+<b>Baseball</b> </a>
+</td>
+</tr>
+<tr data-sport="29" data-kek="row" id=s23 class="bg sportIdOfMatchTr-29 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39387455" onclick="set_match_checked(39387455)" type="checkbox" name="live[]" value="39387455" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="29:39387455"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39387455" href="index.php?page=line&action=2&live[]=39387455&sid[]=29">LA Dodgers - Oakland Athletics<div style="float:left;margin-right:0px;padding-top:6px;">
+<a href="javascript:alert('You must logon before watching video!');">
+<span class="svg-ico-tv"></span>
+</a></div></a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">2:8 (1:2, 0:0, 0:0, 1:5, 0:0, 0:1) 6th inning, top</font> </td>
+</tr> <script type="text/javascript">
+                        var v5 = 24, vc5 = 0, ordc5 = 24;
+                    </script> <tr>
+<td colspan="3" data-sport="10" data-kek="arrow" class="liveMainSport forLiveFilter">
+<a id="a6" href="javascript:set_lshow(24, ordc6, 6, 10);">
+<div style="float:left;margin-right:5px;">
+<span class="sportArrowForSportId-10 arrowRightDynamic"></span>
+</div>
+</a> <a href="javascript:set_lcheck2(v5, v6, vc6, 6);">
+<b>Volleyball</b> </a>
+</td>
+</tr>
+<tr data-sport="10" data-kek="row" id=s24 class="sportIdOfMatchTr-10 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39399250" onclick="set_match_checked(39399250)" type="checkbox" name="live[]" value="39399250" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="10:39399250"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39399250" href="index.php?page=line&action=2&live[]=39399250&sid[]=10"><img src="/img/ball10.svg" class="sport-ico" alt="Serve"> Sporting Cristal - Universidad San Martin</a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">1:1 (19:25, 25:15, 18:16)</font> </td>
+</tr>
+<tr data-sport="10" data-kek="row" id=s25 class="bg sportIdOfMatchTr-10 forLiveFilter">
+<td width="1%" align="center" valign="middle">
+<input id="matchidcb39399238" onclick="set_match_checked(39399238)" type="checkbox" name="live[]" value="39399238" />
+</td>
+<td width="1%" align="center" valign="middle">
+<a class="fav" href="#favorites" title="Add to Favourites" data-favtype="matches" data-favid="10:39399238"></a>
+</td>
+<td width="98%" align="left" valign="middle">
+<a id="match_live_name_39399238" href="index.php?page=line&action=2&live[]=39399238&sid[]=10"><img src="/img/ball10.svg" class="sport-ico" alt="Serve"> Sarawak - Terengganu</a>
+<div style='float: left; margin-right: 0px;padding-top:6px;'><span class='iscashout' title='Cash Out is available'></span>&nbsp;</div>
+<br /><font class="txtmed" style="color:red;">2:0 (25:19, 25:18, 8:3)</font> </td>
+</tr>
+<tr class="bg" style="opacity: 0; background-color: #fff; height: 1px;">
+<td width="1%" style="height: 1px;" align="center" valign="middle"></td>
+<td width="1%" style="height: 1px;" align="center" valign="middle"></td>
+<td width="98%" style="height: 1px;" align="left" valign="middle"></td>
+</tr>
+<script type="text/javascript">
+            var v6 = 26, vl = 26, vc6 = 0, ordc6 = 26;
+        </script>
+<tr id="submitLiveMatches" style="display: ">
+<td class="bg" colspan="3" align="center">
+<table width="50%" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="25%" align="right">
+<input type="checkbox" name="line_nums" value="1" checked="checked" />
+</td>
+<td width="75%" align="left" nowrap>
+<b>Include online event numbering</b>
+</td>
+</tr>
+</table>
+<br /> <input class="msbtn1" style="width:135px;" type="button" value="Select all" onclick="javascript:set_lcheck(vl, true);" />
+<input class="msbtn1" style="width:120px;" type="button" value="Cancel all" onclick="javascript:set_lcheck(vl, false);" />
+<input class="msbtn1" style="width:120px;" type="submit" value="Next" /> <br /><br />
+</td>
+</tr>
+<tr id="noResults" style="display: none;">
+<td class="bg" colspan="3" align="center">
+<table width="50%" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td width="25%" align="center" colspan="2" style="font-size: 15px; padding: 15px 0;">
+<i><b>There are no events for selected sports!</b></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="m_c" align="middle">
+<td class="smwndcap" width="99%" colspan="3" align="center" valign="middle">
+Planned <font class="g">Live</font>-Bets <br /> Starts at <select class="loginbox" name="ltime" onchange="javascript:change_list();">
+<option value="7201" selected="selected">within next 2 hours</option>
+<option value="21600">within next 6 hours</option>
+<option value="86400">within next 24 hours</option>
+<option value="0">any time</option>
+</select> &nbsp; &nbsp; Sports <select class="loginbox" name="sportid" onchange="javascript:change_list();">
+<option value="-1" selected="selected">- - - All categories - - -</option>
+<option value="6">Baseball</option>
+<option value="3">Basketball</option>
+<option value="11">Handball</option>
+<option value="4">Ice Hockey</option>
+<option value="67">Rugby League</option>
+<option value="7">Snooker</option>
+<option value="1">Soccer</option>
+<option value="14">Table Tennis</option>
+<option value="2">Tennis</option>
+<option value="15">Volleyball</option> </select>
+</td>
+</tr> <tr id="t0">
+<td colspan="3">
+ <input id="spid20" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39369688">Tennis. Hayashi E./Takahata K. - HAN N-L / Kobori M</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 03:50:00 12.04.2018</i></font>
+<input id="v0" type="hidden" value="1523483400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t1">
+<td colspan="3">
+<input id="spid21" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393528">Tennis. Ehara H./Katayama S. - Kono Y./Sakai Y.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 04:15:00 12.04.2018</i></font>
+<input id="v1" type="hidden" value="1523484900">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t2">
+<td colspan="3">
+<input id="spid22" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39391966">Tennis. Nishiwaki K. - Wang C.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 04:20:00 12.04.2018</i></font>
+<input id="v2" type="hidden" value="1523485200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t3">
+<td colspan="3">
+<input id="spid23" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39377563">Tennis. Moriya H. - Kawakami R.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 04:20:00 12.04.2018</i></font>
+<input id="v3" type="hidden" value="1523485200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t4">
+<td colspan="3">
+<input id="spid24" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392245">Tennis. Gumulya B / Okuno A - Omae A./Plipuech P.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 04:50:00 12.04.2018</i></font>
+<input id="v4" type="hidden" value="1523487000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t5">
+<td colspan="3">
+<input id="spid25" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392228">Tennis. Naito Y./Wang X. - Inoue M / Muramatsu C<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 05:00:00 12.04.2018</i></font>
+<input id="v5" type="hidden" value="1523487600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t6">
+<td colspan="3">
+<input id="spid26" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392263">Tennis. Choi Ji-Hee/Lertpitaksinchai N. - Silich A / Thandi K K<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 05:05:00 12.04.2018</i></font>
+<input id="v6" type="hidden" value="1523487900">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t7">
+<td colspan="3">
+<input id="spid27" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393529">Tennis. Gao X./Li Zh. - Fujii S / Ochi M</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 05:20:00 12.04.2018</i></font>
+<input id="v7" type="hidden" value="1523488800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t8">
+<td colspan="3">
+<input id="spid28" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393527">Tennis. Te R./Wang A. - Fukuda S / Shimizu Y</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 05:50:00 12.04.2018</i></font>
+<input id="v8" type="hidden" value="1523490600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t9">
+<td colspan="3">
+<input id="spid29" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393530">Tennis. Iino S / Nakashima H - Imai S./Niki T.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 05:50:00 12.04.2018</i></font>
+<input id="v9" type="hidden" value="1523490600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t10">
+<td colspan="3">
+<input id="spid210" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39395179">Tennis. Bhambri Y. - Bachinger M.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 06:00:00 12.04.2018</i></font>
+<input id="v10" type="hidden" value="1523491200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t11">
+<td colspan="3">
+<input id="spid211" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39397277">Tennis. Myneni S. - Donskoy E.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 06:00:00 12.04.2018</i></font>
+<input id="v11" type="hidden" value="1523491200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t12">
+<td colspan="3">
+<input id="spid212" type="hidden" value="14" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39400401">Table Tennis. Sandstrom P. - Putuntica A.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 07:00:00 12.04.2018</i></font>
+<input id="v12" type="hidden" value="1523494800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t13">
+<td colspan="3">
+<input id="spid213" type="hidden" value="14" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39400400">Table Tennis. Kizukuri Y. - Jakelic, Jakov</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 07:00:00 12.04.2018</i></font>
+<input id="v13" type="hidden" value="1523494800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t14">
+<td colspan="3">
+<input id="spid214" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39325971">Soccer. Wuhan Hongxing - Shijiazhuang</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 07:00:00 12.04.2018</i></font>
+<input id="v14" type="hidden" value="1523494800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t15">
+<td colspan="3">
+<input id="spid215" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39395398">Tennis. Ramanathan R. - Harris L.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 07:20:00 12.04.2018</i></font>
+<input id="v15" type="hidden" value="1523496000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t16">
+<td colspan="3">
+<input id="spid216" type="hidden" value="14" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39400402">Table Tennis. Jha K. - Kotov A.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 07:40:00 12.04.2018</i></font>
+<input id="v16" type="hidden" value="1523497200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t17">
+<td colspan="3">
+<input id="spid217" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39397925">Tennis. Gunneswaran P / Myneni S - Gonzales R./Rungkat C.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 08:00:00 12.04.2018</i></font>
+<input id="v17" type="hidden" value="1523498400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t18">
+<td colspan="3">
+ <input id="spid218" type="hidden" value="6" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39398637">Baseball. Yomiuri Giants - Yokohama BayStars</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:00:00 12.04.2018</i></font>
+<input id="v18" type="hidden" value="1523502000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t19">
+<td colspan="3">
+<input id="spid219" type="hidden" value="7" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39351439">Snooker. Yupeng C. - Hull R.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:00:00 12.04.2018</i></font>
+<input id="v19" type="hidden" value="1523502000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t20">
+<td colspan="3">
+<input id="spid220" type="hidden" value="6" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39398575">Baseball. Orix Buffaloes - Tohoku Rakuten Golden Eagles</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:00:00 12.04.2018</i></font>
+<input id="v20" type="hidden" value="1523502000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t21">
+<td colspan="3">
+<input id="spid221" type="hidden" value="6" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39398857">Baseball. Chunichi Dragons - Tokyo Yakult Swallows</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:00:00 12.04.2018</i></font>
+<input id="v21" type="hidden" value="1523502000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t22">
+<td colspan="3">
+<input id="spid222" type="hidden" value="6" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39398741">Baseball. Fukuoka Softbank Hawks - Hokkaido Nippon Ham Fighters</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:00:00 12.04.2018</i></font>
+<input id="v22" type="hidden" value="1523502000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t23">
+<td colspan="3">
+<input id="spid223" type="hidden" value="6" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39398743">Baseball. Hanshin Tigers - Hiroshima Toyo Carp</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:00:00 12.04.2018</i></font>
+<input id="v23" type="hidden" value="1523502000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t24">
+<td colspan="3">
+ <input id="spid224" type="hidden" value="6" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39398855">Baseball. Chiba Lotte Marines - Saitama Seibu Lions</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:15:00 12.04.2018</i></font>
+<input id="v24" type="hidden" value="1523502900">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t25">
+<td colspan="3">
+<input id="spid225" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39397926">Tennis. Erlich J / Nielsen F - Ratiwatana So./Ratiwatana Sa.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:30:00 12.04.2018</i></font>
+<input id="v25" type="hidden" value="1523503800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t26">
+<td colspan="3">
+<input id="spid226" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39395181">Tennis. Wu T.L. - Sela D.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:30:00 12.04.2018</i></font>
+<input id="v26" type="hidden" value="1523503800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t27">
+<td colspan="3">
+<input id="spid227" type="hidden" value="14" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39400406">Table Tennis. Sato H. - Yilmaz, Ozge</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:40:00 12.04.2018</i></font>
+<input id="v27" type="hidden" value="1523504400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t28">
+<td colspan="3">
+<input id="spid228" type="hidden" value="67" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39208219">Rugby League. Sydney Roosters - South Sydney Rabbitohs</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 09:50:00 12.04.2018</i></font>
+<input id="v28" type="hidden" value="1523505000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t29">
+<td colspan="3">
+<input id="spid229" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39378527">Basketball. SK Knights - Dongbu Promy<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 10:00:00 12.04.2018</i></font>
+<input id="v29" type="hidden" value="1523505600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t30">
+ <td colspan="3">
+<input id="spid230" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39397923">Soccer. Ruvu Shooting - Azam</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 10:00:00 12.04.2018</i></font>
+<input id="v30" type="hidden" value="1523505600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t31">
+<td colspan="3">
+<input id="spid231" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39396662">Soccer. Mariupol (U19) - Vorskla Poltava (U19)</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 10:00:00 12.04.2018</i></font>
+<input id="v31" type="hidden" value="1523505600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t32">
+<td colspan="3">
+<input id="spid232" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39381466">Tennis. Bucsa C. - Kolodziejova M.<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 10:00:00 12.04.2018</i></font>
+<input id="v32" type="hidden" value="1523505600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t33">
+<td colspan="3">
+<input id="spid233" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39369110">Soccer. Jamshedpur - Goa<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 10:30:00 12.04.2018</i></font>
+<input id="v33" type="hidden" value="1523507400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t34">
+<td colspan="3">
+<input id="spid234" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39376373">Tennis. Ebden M. - Jung J.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 10:50:00 12.04.2018</i></font>
+<input id="v34" type="hidden" value="1523508600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t35">
+<td colspan="3">
+<input id="spid235" type="hidden" value="2" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39395180">Tennis. Kwon S.-W. - Ito T.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 10:50:00 12.04.2018</i></font>
+<input id="v35" type="hidden" value="1523508600">
+<hr class="hr1" />
+</td>
+ </tr> <tr id="t36">
+<td colspan="3">
+<input id="spid236" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39387457">Soccer. Akhmat (Y) - Tosno (Y)</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 11:00:00 12.04.2018</i></font>
+<input id="v36" type="hidden" value="1523509200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t37">
+<td colspan="3">
+<input id="spid237" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39385589">Soccer. MOIK Baku - Turan Tauz</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 12:00:00 12.04.2018</i></font>
+<input id="v37" type="hidden" value="1523512800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t38">
+<td colspan="3">
+<input id="spid238" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39397924">Soccer. Simba SC - Mbeya City</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 12:00:00 12.04.2018</i></font>
+<input id="v38" type="hidden" value="1523512800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t39">
+<td colspan="3">
+<input id="spid239" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39327021">Soccer. Santarcangelo - Sudtirol<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 12:30:00 12.04.2018</i></font>
+<input id="v39" type="hidden" value="1523514600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t40">
+<td colspan="3">
+<input id="spid240" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39324173">Soccer. Foolad Khuzestan - Zob Ahan</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 12:30:00 12.04.2018</i></font>
+<input id="v40" type="hidden" value="1523514600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t41">
+<td colspan="3">
+<input id="spid241" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39349863">Soccer. Pakhtakor - Qyzylqum</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 13:00:00 12.04.2018</i></font>
+<input id="v41" type="hidden" value="1523516400">
+<hr class="hr1" />
+</td>
+</tr>  <tr id="t42">
+<td colspan="3">
+<input id="spid242" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39349885">Soccer. Olmalik - Kokand 1912</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 13:00:00 12.04.2018</i></font>
+<input id="v42" type="hidden" value="1523516400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t43">
+<td colspan="3">
+<input id="spid243" type="hidden" value="11" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393851">Handball. Potaissa Turda - Focsani</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 13:30:00 12.04.2018</i></font>
+<input id="v43" type="hidden" value="1523518200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t44">
+<td colspan="3">
+<input id="spid244" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39325118">Soccer. Al-Ain - Al-Fujairah</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 13:50:00 12.04.2018</i></font>
+<input id="v44" type="hidden" value="1523519400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t45">
+<td colspan="3">
+<input id="spid245" type="hidden" value="15" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39399598">Volleyball. Neftohimik 2010 - CSKA Sofia</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 14:00:00 12.04.2018</i></font>
+<input id="v45" type="hidden" value="1523520000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t46">
+<td colspan="3">
+<input id="spid246" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39387441">Soccer. Picerno - Turris Neapolis</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 14:00:00 12.04.2018</i></font>
+<input id="v46" type="hidden" value="1523520000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t47">
+<td colspan="3">
+<input id="spid247" type="hidden" value="15" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39367799">Volleyball. Nilufer Belediye - Halkbank Ankara</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 14:30:00 12.04.2018</i></font>
+<input id="v47" type="hidden" value="1523521800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t48">
+<td colspan="3">
+ <input id="spid248" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39350197">Soccer. Neftchi Farg - Bukhara</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v48" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t49">
+<td colspan="3">
+<input id="spid249" type="hidden" value="11" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393852">Handball. HC Vaslui - CSU Suceava</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v49" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t50">
+<td colspan="3">
+<input id="spid250" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39344817">Soccer. Al-Masry - Al-Nasr</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v50" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t51">
+<td colspan="3">
+<input id="spid251" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39332113">Soccer. Suduva - Kauno Zalgiris<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v51" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t52">
+<td colspan="3">
+<input id="spid252" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39319928">Soccer. NK Rudar Velenje - NK Ankaran Hrvatini<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v52" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t53">
+<td colspan="3">
+<input id="spid253" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39409467">Soccer. Karela - Berekum Chelsea</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v53" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr>  <tr id="t54">
+<td colspan="3">
+<input id="spid254" type="hidden" value="11" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393853">Handball. Baia Mare - Poli Timisoara</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v54" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t55">
+<td colspan="3">
+<input id="spid255" type="hidden" value="11" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39394087">Handball. Calarasi - Bucurest CSM</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:00:00 12.04.2018</i></font>
+<input id="v55" type="hidden" value="1523523600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t56">
+<td colspan="3">
+<input id="spid256" type="hidden" value="15" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39389654">Volleyball. HPK - LP Viesti Salo</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:15:00 12.04.2018</i></font>
+<input id="v56" type="hidden" value="1523524500">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t57">
+<td colspan="3">
+<input id="spid257" type="hidden" value="15" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39387902">Volleyball. Hurrikaani-Loimaa - Vammalan Lentopallo</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:15:00 12.04.2018</i></font>
+<input id="v57" type="hidden" value="1523524500">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t58">
+<td colspan="3">
+<input id="spid258" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39383536">Basketball. Salon Vilpas Vikings - KTP</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:30:00 12.04.2018</i></font>
+<input id="v58" type="hidden" value="1523525400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t59">
+<td colspan="3">
+<input id="spid259" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39383325">Basketball. BC Nokia - Kataja</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:30:00 12.04.2018</i></font>
+<input id="v59" type="hidden" value="1523525400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t60">
+<td colspan="3">
+ <input id="spid260" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39383326">Basketball. Kauhajoen Karhu - Pyrinto</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:30:00 12.04.2018</i></font>
+<input id="v60" type="hidden" value="1523525400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t61">
+<td colspan="3">
+<input id="spid261" type="hidden" value="4" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393404">Ice Hockey. Austria - Italy<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:45:00 12.04.2018</i></font>
+<input id="v61" type="hidden" value="1523526300">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t62">
+<td colspan="3">
+<input id="spid262" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39347731">Basketball. Nevezis - Vytautas Prienu<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 15:50:00 12.04.2018</i></font>
+<input id="v62" type="hidden" value="1523526600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t63">
+<td colspan="3">
+<input id="spid263" type="hidden" value="15" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39343958">Volleyball. Iraklis Halkidas - Foinikas</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:00:00 12.04.2018</i></font>
+<input id="v63" type="hidden" value="1523527200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t64">
+<td colspan="3">
+<input id="spid264" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39355046">Basketball. Tsmoki Minsk - BC Khimky</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:00:00 12.04.2018</i></font>
+<input id="v64" type="hidden" value="1523527200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t65">
+<td colspan="3">
+<input id="spid265" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39386569">Soccer. Rakvere JK Tarvas - Santos Tartu</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:00:00 12.04.2018</i></font>
+<input id="v65" type="hidden" value="1523527200">
+<hr class="hr1" />
+</td>
+ </tr> <tr id="t66">
+<td colspan="3">
+<input id="spid266" type="hidden" value="15" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39369102">Volleyball. Kladno - Dukla Liberec</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:00:00 12.04.2018</i></font>
+<input id="v66" type="hidden" value="1523527200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t67">
+<td colspan="3">
+<input id="spid267" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39349859">Basketball. Horsens IC - Randers Cimbria</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:15:00 12.04.2018</i></font>
+<input id="v67" type="hidden" value="1523528100">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t68">
+<td colspan="3">
+<input id="spid268" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=38901219">Soccer. Hobro - Midtjylland</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:30:00 12.04.2018</i></font>
+<input id="v68" type="hidden" value="1523529000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t69">
+<td colspan="3">
+<input id="spid269" type="hidden" value="11" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39348890">Handball. Storhamar - Fredrikstad Bkl.</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:30:00 12.04.2018</i></font>
+<input id="v69" type="hidden" value="1523529000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t70">
+<td colspan="3">
+<input id="spid270" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39387458">Soccer. Valdesoto - Real Aviles</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:30:00 12.04.2018</i></font>
+<input id="v70" type="hidden" value="1523529000">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t71">
+<td colspan="3">
+<input id="spid271" type="hidden" value="11" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39393854">Handball. Steaua Bucuresti - Dobrogea Sud Constanta</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 16:45:00 12.04.2018</i></font>
+<input id="v71" type="hidden" value="1523529900">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t72">
+ <td colspan="3">
+<input id="spid272" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39331401">Soccer. Avranches - Les Herbiers</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v72" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t73">
+<td colspan="3">
+<input id="spid273" type="hidden" value="4" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39394088">Ice Hockey. Huddinge - Pitea</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v73" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t74">
+<td colspan="3">
+<input id="spid274" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392426">Soccer. 07 Vestur - KÍ Klaksvík</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v74" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t75">
+<td colspan="3">
+<input id="spid275" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39356189">Soccer. Rapperswil-Jona - Wil<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v75" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t76">
+<td colspan="3">
+<input id="spid276" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392425">Soccer. B36-Torshavn - Tb/Fc Suduroy/Royn</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v76" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t77">
+<td colspan="3">
+<input id="spid277" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392427">Soccer. Skala Itrottarfelag - HB Torshavn</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v77" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t78">
+<td colspan="3">
+<input id="spid278" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392424">Soccer. AB Argir - Vikingur Gota</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v78" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t79">
+<td colspan="3">
+<input id="spid279" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39368168">Soccer. Thailand (W) - Philippines (W)</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v79" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t80">
+<td colspan="3">
+<input id="spid280" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39367803">Basketball. Swans Gmunden - Wels</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v80" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t81">
+<td colspan="3">
+<input id="spid281" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39332339">Soccer. Trakai - Jonava<div style="float:left;margin-right:0px;padding-top:6px;"><span class="svg-ico-tv"></span></div></a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:00:00 12.04.2018</i></font>
+<input id="v81" type="hidden" value="1523530800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t82">
+<td colspan="3">
+<input id="spid282" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39346626">Basketball. Murcia - Fuenlabrada</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:15:00 12.04.2018</i></font>
+<input id="v82" type="hidden" value="1523531700">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t83">
+<td colspan="3">
+<input id="spid283" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39367804">Basketball. Fuerstenfeld - BC Vienna</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:30:00 12.04.2018</i></font>
+<input id="v83" type="hidden" value="1523532600">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t84">
+<td colspan="3">
+<input id="spid284" type="hidden" value="3" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39389298">Basketball. Maccabi Rishon - Hapoel Eilat</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 17:50:00 12.04.2018</i></font>
+<input id="v84" type="hidden" value="1523533800">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t85">
+<td colspan="3">
+<input id="spid285" type="hidden" value="4" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39367116">Ice Hockey. Denmark - Sweden</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 18:00:00 12.04.2018</i></font>
+<input id="v85" type="hidden" value="1523534400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t86">
+<td colspan="3">
+<input id="spid286" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39390251">Soccer. SPVG Wesseling-Urfeld - SSV Merten</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 18:00:00 12.04.2018</i></font>
+<input id="v86" type="hidden" value="1523534400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t87">
+<td colspan="3">
+<input id="spid287" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39392430">Soccer. EB/Streymur - Runavík</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 18:00:00 12.04.2018</i></font>
+<input id="v87" type="hidden" value="1523534400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t88">
+<td colspan="3">
+<input id="spid288" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39331031">Soccer. Huesca - Albacete</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 18:00:00 12.04.2018</i></font>
+<input id="v88" type="hidden" value="1523534400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t89">
+<td colspan="3">
+<input id="spid289" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39344818">Soccer. Zamalek - Al Ittihad Al Sakandary</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 18:00:00 12.04.2018</i></font>
+<input id="v89" type="hidden" value="1523534400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t90">
+<td colspan="3">
+<input id="spid290" type="hidden" value="1" />
+ <b><a href="index.php?page=line&addons=1&action=2&mid=39395424">Soccer. Fluminense/RJ (U20) - Gremio RS (U20)</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 18:00:00 12.04.2018</i></font>
+<input id="v90" type="hidden" value="1523534400">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t91">
+<td colspan="3">
+<input id="spid291" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39262468">Soccer. Red Bull Salzburg - Lazio</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 19:05:00 12.04.2018</i></font>
+<input id="v91" type="hidden" value="1523538300">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t92">
+<td colspan="3">
+<input id="spid292" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39262469">Soccer. Olympique de Marseille - RB Leipzig</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 19:05:00 12.04.2018</i></font>
+<input id="v92" type="hidden" value="1523538300">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t93">
+<td colspan="3">
+<input id="spid293" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39262471">Soccer. Sporting Lisbon - Atletico Madrid</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 19:05:00 12.04.2018</i></font>
+<input id="v93" type="hidden" value="1523538300">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t94">
+<td colspan="3">
+<input id="spid294" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39262470">Soccer. CSKA Moscow - Arsenal</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 19:05:00 12.04.2018</i></font>
+<input id="v94" type="hidden" value="1523538300">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t95">
+<td colspan="3">
+<input id="spid295" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39395422">Soccer. Chapecoense (U20) - FC São Paulo (U20)</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 21:00:00 12.04.2018</i></font>
+<input id="v95" type="hidden" value="1523545200">
+<hr class="hr1" />
+</td>
+</tr> <tr id="t96">
+<td colspan="3">
+<input id="spid296" type="hidden" value="1" />
+<b><a href="index.php?page=line&addons=1&action=2&mid=39356881">Soccer. Binacional - Melgar</a></b> <span class="tab"></span><br />
+<font class="txtmed" style="color:red"><i>Starts at 22:45:00 12.04.2018</i></font>
+<input id="v96" type="hidden" value="1523551500">
+<hr class="hr1" />
+</td>
+</tr> <script type="text/javascript">
+                        function change_list() {
+                            var p_cnt = 97, show_sport = 0,
+                                curr_sport = document.forms.BetLine.sportid.options[document.forms.BetLine.sportid.selectedIndex].value,
+                                filter = (curr_tstamp.getTime() / 1000 - (curr_tstamp.getTimezoneOffset() + 360) * 60) + (document.forms.BetLine.ltime.options[document.forms.BetLine.ltime.selectedIndex].value - 0);
+                            if (document.forms.BetLine.ltime.options[document.forms.BetLine.ltime.selectedIndex].value <= 0) {
+                                filter = 9999999999;
+                            }
+                            for (var i = 0; i < p_cnt; i++) {
+                                show_sport = 0;
+                                if ((document.getElementById('spid2' + i).value == curr_sport) || (curr_sport == '-1')) {
+                                    show_sport = 1;
+                                }
+                                if (((document.getElementById('v' + i).value - 0) > filter) || !show_sport) {
+                                    document.getElementById('t' + i).style.display = 'none';
+                                }
+                                else {
+                                    document.getElementById('t' + i).style.display = '';
+                                }
+                            }
+                        }
+                        change_list();
+                    </script> </table>
+<br />
+<center>
+<script type="text/javascript">
+                function set_lcheck(last, status) {
+                    var intstatus = 0;
+                    if (status) {
+                        intstatus = 1;
+                    }
+                    else {
+                        intstatus = 0;
+                    }
+                    var total_cb_count = document.getElementsByName("live[]").length;
+
+                    $('input[name="live[]"]').each(function () {
+                        if ($(this).is(":visible")) {
+                            $(this).prop("checked", status);
+                            cookMe($(this).attr('id'), intstatus);
+                            console.log($(this).attr('id'));
+                        }
+                    });
+                }
+                function set_lcheck2(start, last, status, pos) {
+                    if (status == 0) {
+                        status = 1;
+                    }
+                    else {
+                        status = 0;
+                    }
+                    eval('vc' + pos + ' = ' + status + ';');
+
+					for(var i=start; i<last; i++)
+					{
+        	            document.forms.BetLine['live[]'][i].checked = status;
+        	            if(document.getElementById(document.forms.BetLine['live[]'][i].id))document.cookie = document.forms.BetLine['live[]'][i].id + '=' + status + ';';
+        	            document.forms.BetLine['live[]'][i].focus();
+        	        }
+        	                        }
+                $(document).ready(function () {
+                    $('.is_outright1').change(function () {
+                        $('#addons').prop('checked', false);
+                        $('.is_outright').each(function () {
+                            if ($(this).prop('checked')) {
+                                $('#addons').prop('checked', true);
+                                return true;
+                            }
+                        })
+                    })
+                });
+                function set_check(start, last, status) {
+                    console.log(last);
+                    document.forms.BetLine['sel[]'].checked = status;                }
+                /*
+                 function set_lshow(start, last, pos, sport_id) {
+                 for (var i = start; i < last; i++) {
+                 if (document.getElementById('s' + i).style.display == 'none') {
+                 document.getElementById('s' + i).style.display = '';
+                 }
+                 else {
+                 document.getElementById('s' + i).style.display = 'none';
+                 }
+                 if (document.getElementById('s' + start).style.display == 'none') {
+                 document.getElementById('a' + pos).innerHTML = '<div style="float:left;margin-right:5px;"><span class="arrowDownDynamic"></span></div>';
+                 }
+                 else {
+                 document.getElementById('a' + pos).innerHTML = '<div style="float:left;margin-right:5px;"><span class="arrowRightDynamic"></span></div>';
+                 }
+                 }
+                 }
+                 */
+                function set_lshow(start, last, pos, sport_id) {
+                    var arrow_span = $('.sportArrowForSportId-' + sport_id);
+                    if (arrow_span.hasClass('arrowDownDynamic')) {
+                        //arrow_span.switchClass('arrowDownDynamic','arrowRightDynamic');
+                        arrow_span.removeClass('arrowDownDynamic');
+                        arrow_span.addClass('arrowRightDynamic');
+                        $('.sportIdOfMatchTr-' + sport_id).show();
+                        document.cookie = 'sport_arrow_hidden_' + sport_id + ' = 0;';
+                    }
+                    else {
+                        //arrow_span.switchClass('arrowRightDynamic','arrowDownDynamic');
+                        arrow_span.removeClass('arrowRightDynamic');
+                        arrow_span.addClass('arrowDownDynamic');
+                        $('.sportIdOfMatchTr-' + sport_id).hide();
+                        document.cookie = 'sport_arrow_hidden_' + sport_id + ' = 1;';
+                    }
+                }
+            </script> </form>
+</td>
+<td class="col_td right" style="width:262px; position: relative;" valign="top">
+<div id="scroll_block" style="position: absolute; top: 0; transition: 0.4s;">
+<div id="betradar_frame" data-fullurl="Open full version">
+<script>
+                /*$(window).load(function(){
+                 eval($('img[src="/img/mt.png"]:first').parent().attr('href'));
+                 });*/
+                $(document).ready(function () {
+                    $('#betradar_frame .smwndcap').css({'cursor': 'pointer'}).on('click', function () {
+                        var $content = $('#betradar_frame #widget_betradar'),
+                            speed = 500;
+
+                            $content.stop(true, true);
+                            if (false == $content.hasClass('is_active'))
+                                $content.slideDown(speed, function () {
+                                    $(this).addClass('is_active');
+                                });
+                            else
+                                $content.slideUp(speed / 2, function () {
+                                    $(this).removeClass('is_active');
+                                });
+                        });
+                    });
+                </script>
+<table class="smallwnd" style="display:none;">
+<tbody>
+<tr class="m_c" align="middle">
+<td class="smwndcap">Match tracker</td>
+</tr>
+<tr>
+<td align="middle">
+<div id="widget_betradar"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<script>
+                $(document).ready(function () {
+                    //сворачивание виджета при нажатии на заголовок
+                    $('.video-widget-header .title').on('click', function () {
+                        var $content = $('.video-widget-body'),
+                            speed = 500;
+                        $content.stop(true, true);
+                        if (false == $content.hasClass('is_active'))
+                            $content.slideDown(speed, function () {
+                                $(this).addClass('is_active');
+                            });
+                        else
+                            $content.slideUp(speed / 2, function () {
+                                $(this).removeClass('is_active');
+                            });
+                    });
+                    //обрабатываем нажатие на кнопку отдельного видео окна
+                    $('.video-widget-header .full-button').off();
+                    $('.video-widget-header .full-button').on('click', function () {
+                        window.open('index.php?page=video&id=' + glob_video_id, '', 'width=750,height=600,menubar=0,toolbar=0,directories=0,status=1,location=0,resizable=0,scrollbars=0');
+                        $('#close_side_videobar').click();
+                        $('.video-widget').hide();
+                    });
+                    //обрабатываем нажатие на кнопку стандартного/расширенного видео окна виджета
+                    $('.video-widget-header .expand-button').off();
+                    $('.video-widget-header .expand-button').on('click', function () {
+                        ToggleTdWidth();
+                        if ($('.col_td.right').hasClass('expanded')) {
+                            $(this).attr('title', 'Minimize video stream');
+                        }
+                        else {
+                            $(this).attr('title', 'Maximize video stream');
+                        }
+                        openvideobr(glob_video_id);
+                    });
+                    $('.video-widget-header .close-button').on('click', function () {
+                        $('.video-widget-body').html('');
+                        $('.video-widget').hide();
+                    });
+                    $('.video-widget-body').on('mouseover', function () {
+                        $('.video-widget-title').text($('#match_live_name_' + glob_video_id).text());
+                        $('.video-widget-title').fadeIn();
+                    });
+                    $('.video-widget-body').on('mouseout', function () {
+                        $('.video-widget-title').fadeOut();
+                    });
+                    $('.video-widget-header .expand-button').on('mouseover', function () {
+                        if ($('.col_td.right').hasClass('expanded')) {
+                            $(this).attr('title', 'Minimize video stream');
+                        }
+                        else {
+                            $(this).attr('title', 'Maximize video stream');
+                        }
+                });
+                });
+            </script>
+<div class="video-widget">
+<div class="video-widget-header">
+<div class="title">Live video stream</div>
+<div class="close-button" id="close_side_videobar" title="Close video stream"></div>
+<div class="full-button" title="Open in a new window"></div>
+<div class="expand-button" title="Maximize video stream"></div>
+</div>
+<div class="video-widget-body"></div>
+<div class="video-widget-title" style="display: none"></div>
+</div>
+<div id="betslip1" style="" class="">
+<style>
+    .onoffswitch-inner:before {
+        font-size: 12px;
+        font-family: Tahoma, Verdana, Helvetica, sans-serif !important;
+        content: "ON";
+        background-color: #B33c36;
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    .onoffswitch-inner:after {
+        font-size: 12px;
+        font-family: Tahoma, Verdana, Helvetica, sans-serif !important;
+        content: "OFF";
+        color: #868686 !important;
+        text-align: center;
+    }
+</style>
+<script>
+    var betslip_light_version = 1;
+    /*
+    function offsetPosition(e) {
+        offsetTop = 0;
+        do {
+            offsetTop += e.offsetTop;
+        } while (e = e.offsetParent);
+        return offsetTop;
+    }
+    var bs = document.getElementById('betslip1'), offset = offsetPosition(bs);
+    var $widgetBetradar = $('#scroll_block');
+    window.onscroll = function () {
+        if ((bs.offsetHeight + 10) >= document.body.clientHeight) {
+            bs.className = '';
+            return;
+        }
+        //		bs.className = ((offset < window.pageYOffset) ? 'fcl' : '');
+        if ($widgetBetradar.length > 0) {
+            if (offset < window.pageYOffset) {
+                $widgetBetradar.addClass('fcl').css({top: ($(window).scrollTop() -*/85/*) + 'px'});
+            } else {
+                $widgetBetradar.removeClass('fcl').css({top: 0});
+            }
+        }
+
+    }
+    */
+</script>
+<link type="text/css" rel="stylesheet" href="/css/basket.css?11226" />
+<link type="text/css" rel="stylesheet" href="/css/CustomScrollbar/jquery.mCustomScrollbar.css">
+<script src="/img/jquery.modal.js"></script>
+<script src="/js/basket.js?11226"></script>
+<script src="/js/CustomScrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+<input type="hidden" value="0" name="usersumm" id="usersumm">
+
+<script>
+            //переменная которая показывает, было ли сделано удаление коэфициента в карзину либо добавление
+            var koefDeleted = false;
+            //айди коэфициента, котрый был добавлен самым последним (чтобы отправлять данные только по нему)
+            var last_koefID = "";
+
+
+            $(document).ajaxSuccess(function (event, xhr, settings, data) {
+                //перехват AJAX данных с карзины
+                var url = (settings.url);
+                var isbasket_responce = url.search("ajax_basket_index.php");
+                if (isbasket_responce > (-1)) {
+                    GA_basketAddKoef(data, last_koefID);
+                    //определение совершенного действия в корзине
+                    if (data.case == "addkef") {
+
+
+                        if (koefDeleted == false) {
+                            //добавлен коэфициент
+                            GA_basketAddKoef(data, last_koefID);
+                        } else {
+                            //удален коэфициент
+                            GA_basketRemovekoef(data, last_koefID);
+                        }
+                    }
+
+                    if (data.case == "deleteevent") {
+                        GA_basketRemovekoef(data);
+                    }
+
+                    if (data.case == "submit") {
+                        GA_basketSubmit(data);
+                    }
+
+                    if (data.case == "form") {
+                        GA_basketListKoefs(data);
+                    }
+
+                }
+
+                //возвращаем значение переменной в исходное состояние
+                koefDeleted = false;
+
+            });
+
+
+            //событие ДОБАВЛЕНИЕ КОЭФИЦИЕНТА
+            function GA_basketAddKoef(data, last_koefID) {
+/*
+                console.log("GA_basketAddKoef");
+                console.log(last_koefID);
+                console.log(data);
+
+                data.betslip.forEach(function (item, i, arr) {
+                    console.log(item);
+                });
+*/
+
+            }
+
+            //событие УДАЛЕНИЕ КОЭФИЦИЕНТА
+            function GA_basketRemovekoef(data, last_koefID) {
+                console.log("GA_basketRemovekoef");
+                //console.log(last_koefID);
+                //console.log(data.betslip);
+                console.log(data);
+
+
+                dataLayer.push({
+                    'event': 'productClick',
+                    'funnel': 'Bets',
+                    'ecommerce': {
+                        'click': {
+                            'actionField': {'list': 'Страница мероприятия'},
+                            'products': [{
+                                'name': 'Футбол / Челси - Манчестер Сити',
+                                'id': '12345',
+                                'price': '0',
+                                'category': 'Футбол',
+                                'brand': 'Англия. Премьер Лига',
+                                'variant': 'Победа первой / 1.25',
+                                'position': 1
+                            }]
+                        }
+                    }
+                });
+
+
+            }
+
+
+            //событие ЗАКЛЮЧЕНИЕ ПАРИ
+            function GA_basketSubmit(data) {
+                console.log("GA_basketSubmit");
+                console.log(data);
+
+
+            }
+
+
+            //событие НАЛИЧИЕ СТАВОК В КАРЗИНЕ при загружке страницы
+            function GA_basketListKoefs(data) {
+                console.log("GA_basketListKoefs");
+                console.log(data);
+            }
+
+
+        </script>
+<div class="busket">
+<div class="busket-header">
+<div class="busket-title active" id="betslip-button">BET SLIP</div>
+<div class="busket-title" id="history-button">Bet History</div>
+<div class="busket-title cashOutLink" id="cashout-button">
+<div class="cashOutlinkIco"></div>
+</div>
+<div class="expand-button"></div>
+<div class="quickstake-title group5">Quick bet <div class="onoffswitch" style="float:right">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch_e">
+<label class="onoffswitch-label" for="myonoffswitch_e">
+<span class="onoffswitch-inner"></span>
+<span class="onoffswitch-switch"></span>
+</label>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="quick_stake group6" style="display: none;">
+<div style="float:left">
+<span style="margin:auto 3px; text-transform: uppercase">Quick bet</span>
+</div>
+<div class="onoffswitch" style="float:right">
+<input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch">
+<label class="onoffswitch-label" for="myonoffswitch">
+<span class="onoffswitch-inner"></span>
+<span class="onoffswitch-switch"></span>
+</label>
+</div>
+<div class="clear"></div>
+</div>
+<div id="wraper_basket_b" style="display: none;">
+<div class="busket-nav">
+<a data-type="1" id="bn1" href="#">SINGLE</a>
+<a data-type="2" id="bn2" href="#">ACCUMULATOR </a>
+<a data-type="3" id="bn3" href="#">SYSTEM</a>
+</div>
+<input type="hidden" id="busket-nav" value="1">
+<div class="clear"></div>
+<div id="error-wraper-betslip"></div>
+<form name="F1" method="post" id="betslip_form" style="margin-bottom: 0;">
+<input type="hidden" name="action" value="submit">
+<input type="hidden" name="oc" value="0">
+<input type="hidden" name="googleId" value="65f5e686daba97dc57822eb82c41ed67">
+<input type="hidden" name="ocid" id="ocid" value="0">
+<input type="hidden" value="line" name="bs_curpage" id="bs_curpage">
+<div class="busket-body">
+
+</div>
+</form>
+<div class="clear"></div>
+<div id="betok" class="warning-infoblock hide">
+<div>
+<div class="accept_icon"></div>
+Thank you - Your bet has been accepted </div>
+</div>
+</div>
+<div id="wraper_history_b" style="display: none;">
+<div style="position: relative;">
+<div id="history_body_b">
+<div class="content"></div>
+</div>
+<div id="history_b_progress_bar" style="display: none;"></div>
+</div>
+<div class="history_footer_b">
+<div id="error-wraper-history"></div>
+<div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal" id="alertmodal" style="display:none;">
+<div class="modal-header">
+<span>Please confirm</span>
+<a href="#" rel="modal:close">x</a>
+</div>
+<div class="modalBox">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td style="vertical-align: top;">
+<div class="warning_icon"></div>
+</td>
+<td>
+<span>The odd for this event was changed</span>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr id="alertChangeKoefs">
+<td class="first-line"><span class="koef" style="float:left !important;">0</span></td>
+<td style="text-align: center !important; padding:0 !important"> =></td>
+<td class="second-line"><span class="koef">0</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-top: 1px solid  #d4d4d4 !important;   padding-top:10px !important">
+<tr>
+<td width="45%">
+<div><input type="button" class="btn-ok modal-ok" value="Accept" /></div>
+</td>
+<td width="55%">
+<div>
+<input type="button" class="btn-cancel modal-cancel" value="Cancel" />
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div> <div class="bs-clear"><br /></div>
+</div>
+</div>
+<script type="text/javascript" src="/js/tick.js?11226"></script>
+<script type="text/javascript" src="/js/jquery.tick.favorites.js?11226"></script><script type="text/javascript">
+    $(function () {
+                $('#favorites').olimpFavorites({
+            elements: '.fav',
+            line: 'Sports',
+            show_txt: 'Show',
+            add_txt: 'Add to Favourites',
+            remove_txt: 'Remove from Favourites',
+            clear_txt: 'Clear Favourites',
+            clear_confirm_txt: 'Are you sure?'
+        });
+                tick.config([
+                        {
+                name: 'favorites',
+                interval: 15,
+                require: [1, 3],
+                                /*condition: function()
+                 {
+                 var cookie_name = 'favorites',
+                 found     = document.cookie.match(new RegExp(
+                 '(?:^|; )' + cookie_name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + '=([^;]*)'
+                 ));
+
+                 console.log(typeof found);
+                 console.log(found);
+
+                 return true;
+                 //return found ? true : false;
+                 },*/
+                callback: function (response) {
+                    if (response.error) {
+                        console.log('Response: ' + response.error);
+                        return false;
+                    }
+
+                    // Обновляем избранное
+                    $('#favorites').olimpFavorites('updateFav', response);
+                }
+            } ,
+                        {
+                name: 'basket',
+                interval: 10,
+                require: [1, 2, 3],
+                condition: function () {
+                    return $('#betslip-button').hasClass('active');
+                },
+                request: function () {
+                    return {
+                        'action': 'form',
+                        'currpage': $('input[name="currpage"]').val(),
+                        'BasketTab': $('#busket-nav').val(),
+                        'cp': "",
+                        'update': 1
+                    };
+                },
+                callback: function (response) {
+                    BetslipUpdateTick(response)
+                }
+            }
+            , {
+                name: 'cashout_betslip',
+                interval: 20,
+                require: [1, 2],
+                condition: function () {
+                    return $('#history-button, #cashout-button').hasClass('active');
+                },
+                request: function () {
+                    return GetVisibleCashoutId();
+                },
+                callback: function (response) {
+                    BetslipCashoutUpdateTick(response); // basket.js
+                }
+            }
+            , {
+                name: 'score_betslip',
+                interval: 15, // меняю с 13 на 15 для синхронизации
+                require: [1, 3],
+                condition: function () {
+                    return $('#history-button, #cashout-button').hasClass('active');
+                },
+                request: function () {
+                    return GetScoreToUpdate(false);
+                },
+                callback: function (response) {
+                    BetslipScoreUpdateTick(response, false); // basket.js
+                },
+                complete: function (response) {
+                    BetslipScoreCompleteTick(response); // basket.js
+                }
+            }
+            , {
+                name: 'score_betslip_dttm',
+                interval: 60,
+                require: [1, 3],
+                condition: function () {
+                    return $('#history-button, #cashout-button').hasClass('active');
+                },
+                request: function () {
+                    return GetScoreToUpdate(false);
+                },
+                callback: function (response) {
+                    BetslipScoreUpdateTick(response, true); // basket.js
+                },
+                complete: function (response) {
+                    BetslipScoreCompleteTick(response); // basket.js
+                }
+            }
+            , {
+                name: 'bets_status_betslip',
+                interval: 60,
+                require: [2],
+                condition: function () {
+                    return $('#history-button').hasClass('active');
+                },
+                request: function () {
+                    return GetVisibleBetsId();
+                },
+                callback: function (response) {
+                    BetslipBetsUpdateTick(response); // basket.js
+                }
+            } ,
+                    ]);
+        tick.start();
+    });
+</script></td>
+</tr>
+</table>
+<script type="text/javascript" src="/js/googleStat.js?11226"></script>
+<hr class=hr1><TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TR>
+<TD class=copyright> <p class='p1'><span class=txtmed><a href='index.php?page=rules'>Terms &amp; Conditions</a> | <a href='index.php?page=privacy'>Privacy Policy</a> | <a href='index.php?page=refund'>Refund Policy</a></span></p><div class=copy><p class=p2>Copyright &copy; 2006-2018 Olimp Bookmakers ("Alpha-Bet" Ltd)<br><a href='index.php?page=support'>Customer support</a><br><span>(24/7 Online)</span>&nbsp;</p><p class='p3'><a href='https://olimp.com/mobile/index.php'>Mobile version</a></p></div></TD><TD align=right><TABLE cellSpacing=3 cellPadding=0 border=0>
+<TR>
+
+<script type="text/javascript">
+window.__lc = window.__lc || {};
+window.__lc.license = 6897171;
+window.__lc.chat_between_groups = false;
+window.__lc.group = 3;
+
+window.__lc.visitor = {
+	name: '.',
+	email: ''
+};
+window.__lc.params = [
+  { name: 'Status', value: 'Not Authorized' },
+  { name: 'URL', value: 'https://OLIMP.COM/betting' },
+  { name: 'Domain', value: 'com' },
+  { name: 'Type', value: 'Website' },
+  { name: 'Lang', value: 'English' }
+];
+
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<TD class='right_footer_line'>
+<div class="payLineFooter">
+<ul class="appLinksStore">
+<li>
+<a href="https://goo.gl/YYY2Ae" target="_blank">
+<img width="31" height="31" src="../images/appstore.svg" />
+<span>Russia</span>
+</a>
+</li>
+<li>
+<a href="https://goo.gl/y75MLA" target="_blank">
+<img width="31" height="31" src="../images/appstore.svg" />
+<span>World</span>
+</a>
+</li>
+<li>
+<a href="https://goo.gl/FySh1W" target="_blank">
+<img width="31" height="31" src="../images/playstore.svg" />
+<span>World</span>
+</a>
+</li>
+</li>
+</ul>
+<div class="stat_link_block">
+<span id='siteseal'><script type='text/javascript' src='https://seal.godaddy.com/getSeal?sealID=INckY5tj2JM8C2P7hb2PveBldB3A1HOmc4xNBGr2J7dC1QnqhSW277MaR'></script></span></div>
+<div class="stat_link_block"><img src='/img/visa.jpg' alt='Visa, MasterCard, Diners Club By MoneyBookers'></div>
+<div class="stat_link_block"><img src='/img/wm_eng.png' alt='WebMoney'></div>
+<div class="stat_link_block"><img src="/img/wooppay.png" alt='WoopPay' /></div>
+<div class="stat_link_block"><img src="/img/qiwi.png?1" alt='Qiwi' /></div>
+<div class="stat_link_block">
+<div id="apg-151a2e32-2e22-43c3-b136-69fea8541cce" data-apg-seal-id="151a2e32-2e22-43c3-b136-69fea8541cce" data-apg-image-size="131" data-apg-image-type="basic-small"></div>
+<script type="text/javascript" src="https://151a2e32-2e22-43c3-b136-69fea8541cce.snippet.antillephone.com/apg-seal.js"></script>
+<script type="text/javascript">
+                             $(function() { apg_151a2e32_2e22_43c3_b136_69fea8541cce.init(); });
+                         </script>
+<style type="text/css">
+                            #apg-151a2e32-2e22-43c3-b136-69fea8541cce, #apg-151a2e32-2e22-43c3-b136-69fea8541cce > div, #apg-151a2e32-2e22-43c3-b136-69fea8541cce a, #apg-151a2e32-2e22-43c3-b136-69fea8541cce img {
+                                display: block;
+                                width: 47px;
+                                height: 31px !important;
+                                overflow: hidden;
+                            }
+                            #apg-151a2e32-2e22-43c3-b136-69fea8541cce img {
+                                width: 75px !important;
+                                left: 0 !important;
+                            }
+                         </style>
+</div>
+</div>
+</TD>
+<TD>
+<script type="text/javascript">//<![CDATA[
+var _tmr = _tmr || [];
+_tmr.push({id: "1056127",  type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+//]]></script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=1056127;js=na" style="border:0;" height="1" width="1" alt="Rating@Mail.ru" />
+</div></noscript>
+
+
+</TD>
+
+<span id="_zero_54280">
+<noscript>
+<a href="http://zero.kz/?s=54280" target="_blank"><img src="https://c.zero.kz/z.png?u=54280" width="88" height="31" alt="ZERO.kz" /></a>
+</noscript>
+</span>
+
+</td-->
+<TD>
+
+<span id="openstat743448"></span>
+<script type="text/javascript">
+var openstat = { counter: 743448, next: openstat };
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+})(document, "script", document.location.protocol);
+</script>
+
+</TD>
+</TR>
+</TABLE><tr><td colspan="2" align="center" style="padding-top: 0;"><hr class="hr1" style="margin:0;">
+<br><br>
+<div style="margin: auto auto;text-align:center;width: 100%; font-size:10px;">
+OLIMP.COM is operated by OLIMPBET N.V. and licensed to conduct online gaming operations under the gaming licence #8048/JAZ2016-014 issued by authorized organization by the government of Curacao. <br><br>
+Physical address: 6 Griva, Office 401, Agios Antonios, 1055 Nicosia, Cyprus. </div><br>
+<br>
+</td>
+</span></b>
+</TD>
+</TR>
+</TABLE>
+</body></html>
+
+<div style='display: none;'>
+ENGINE DEBUG INFORMATION
+DataBase Errors: 0
+Script Errors: 0
+Script Warnings: 0
+Total time: 0.03 s
+DataBase time(1): 0.002 s
+DataBase time(2): 0 s
+DataBase time(3): 0 s
+Served by: s77
+C: true
+VK_I8Ud3
+</div>
+
+
