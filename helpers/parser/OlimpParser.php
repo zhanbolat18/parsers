@@ -46,4 +46,62 @@ class OlimpParser extends BaseParser
         return $resp->getContent();
     }
 
+    public static function getLiveOneItem($matchId)
+    {
+        $content = OlimpParser::getLiveWithCoef([$matchId]);
+        $query = \phpQuery::newDocumentHTML($content);
+        $tableRows = $query->find('table.totalizator tr');
+
+        $matchName = '';
+        $p1 = 0;
+        $x = 0;
+        $p2 = 0;
+        /** @var \DOMElement $tableRow */
+        foreach ($tableRows->elements as $tableRow) {
+            $pq = \phpQuery::pq($tableRow);
+            if ($pq->hasClass('ishodRollHead')) {
+                continue;
+            } else {
+                $rows = $pq->find('table.koeftable2 tr');
+
+                foreach ($rows->elements as $element) {
+                    $elementPQ = \phpQuery::pq($element);
+                    if ($elementPQ->hasClass('hi')) {
+                        $matchName = $elementPQ->find('td:last-child font.m')->text();
+                    } else {
+                        $coefsPanel = $elementPQ->find('td div.tab');
+                        $coefsPanel->find('div[data-match-id-show]')->remove();
+
+                        $nobr = $coefsPanel->find('nobr span.googleStatIssue');
+                        /** @var \DOMElement $spans */
+                        foreach ($nobr->elements as $spans) {
+                            $span = \phpQuery::pq($spans);
+                            $type = $span->find('span.googleStatIssueName')->text();
+                            switch (strtoupper((string)$type)) {
+                                case ParserHelper::FIRST_WINNER : {
+                                    $p1 = $span->find('b.value_js')->text();
+                                    break;
+                                }
+                                case ParserHelper::SECOND_WINNER: {
+                                    $p2 = $span->find('b.value_js')->text();
+                                    break;
+                                }
+                                case ParserHelper::NEUTRAL: {
+                                    $x = $span->find('b.value_js')->text();
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        };
+        return [
+            'name' => $matchName,
+            'p1' =>$p1,
+            'x' => $x,
+            'p2' => $p2
+        ];
+    }
+
 }

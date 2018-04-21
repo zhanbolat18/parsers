@@ -2,6 +2,8 @@
 
 namespace app\controllers;
 
+use app\helpers\parser\OlimpParser;
+use app\helpers\parser\PariMatchParser;
 use app\helpers\parser\ParserHelper;
 use yii\data\ArrayDataProvider;
 use yii\helpers\ArrayHelper;
@@ -45,8 +47,13 @@ class SiteController extends Controller
         }
         $olimp = ArrayHelper::getValue($post,'olimp');
         $parimatch = ArrayHelper::getValue($post,'parimatch');
+        $olimpCoef = OlimpParser::getLiveOneItem($olimp);
+        $parmatchCoef = PariMatchParser::getLiveOneItem($parimatch);
 
-        var_dump($post); die;
+        return $this->render('watch',[
+            'olimpCoef' => $olimpCoef,
+            'parimatchCoef' => $parmatchCoef
+        ]);
     }
 
     /**
