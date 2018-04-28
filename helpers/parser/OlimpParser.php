@@ -9,6 +9,7 @@
 namespace app\helpers\parser;
 
 
+use yii\helpers\StringHelper;
 use yii\httpclient\Client;
 
 class OlimpParser extends BaseParser
@@ -56,6 +57,9 @@ class OlimpParser extends BaseParser
         $p1 = 0;
         $x = 0;
         $p2 = 0;
+        $total = null;
+        $under = null;
+        $over = null;
         /** @var \DOMElement $tableRow */
         foreach ($tableRows->elements as $tableRow) {
             $pq = \phpQuery::pq($tableRow);
@@ -90,17 +94,33 @@ class OlimpParser extends BaseParser
                                     $x = $span->find('b.value_js')->text();
                                     break;
                                 }
+                                default : {
+                                    $t = trim($type,' \t\n\r\0\x0B\-');
+                                    $tot = 'TOT';
+                                    // Starts With
+                                    if (strtoupper(substr($t,0, strlen($tot))) === $tot) {
+                                        $total = $t;
+                                        $totals = $span->find('b.value_js')->texts();
+                                        $under = $totals[0];
+                                        $over = $totals[1];
+                                    }
+
+                                }
                             }
                         }
                     }
                 }
             }
         };
+
         return [
             'name' => $matchName,
             'p1' =>$p1,
             'x' => $x,
-            'p2' => $p2
+            'p2' => $p2,
+            'total' => $total,
+            'over' => $over,
+            'under' => $under,
         ];
     }
 
