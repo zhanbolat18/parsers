@@ -41,7 +41,7 @@ class PariMatchParser extends BaseParser
             $tc = strtoupper( trim( (string)$th->textContent ) );
             if ( in_array(
                     $tc,
-                    ['1','2','X']
+                    ['1','2','X','TOTAL']
                 )
             ){
                 $indexes[$key] = $tc;
@@ -54,6 +54,7 @@ class PariMatchParser extends BaseParser
         $p1 = null;
         $x = null;
         $p2 = null;
+        $total = null;
         $counter = 0;
         foreach($tds as $td){
             $cs = $td->getAttribute('colspan');
@@ -75,6 +76,11 @@ class PariMatchParser extends BaseParser
                         $x = $td;
                         break;
                     }
+                    case 'TOTAL':{
+                        $total = $td;
+                        break;
+                    }
+
                 }
             }
             $counter += 1;
@@ -84,7 +90,8 @@ class PariMatchParser extends BaseParser
             'name' => $matchName,
             'p1' => $p1 ? $p1->textContent : null,
             'x' => $x ? $x->textContent : null,
-            'p2' => $p2 ? $p2->textContent : null
+            'p2' => $p2 ? $p2->textContent : null,
+            'total' => $total ? $total->textContent : null
         ];
     }
 

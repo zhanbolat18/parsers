@@ -9,6 +9,7 @@ use yii\data\ArrayDataProvider;
 use yii\helpers\ArrayHelper;
 use yii\httpclient\Client;
 use yii\web\Controller;
+use yii\web\Response;
 
 class SiteController extends Controller
 {
@@ -52,8 +53,26 @@ class SiteController extends Controller
 
         return $this->render('watch',[
             'olimpCoef' => $olimpCoef,
-            'parimatchCoef' => $parmatchCoef
+            'parimatchCoef' => $parmatchCoef,
+            'olimpMatchId' => $olimp,
+            'parmiatchMatchId' => $parimatch
         ]);
+    }
+
+    public function actionUpdateCoefs()
+    {
+        if (!($get = \Yii::$app->getRequest()->get())){
+            return $this->redirect('index');
+        }
+        $olimp = ArrayHelper::getValue($get,'olimp');
+        $parimatch = ArrayHelper::getValue($get,'parimatch');
+        $olimpCoef = OlimpParser::getLiveOneItem($olimp);
+        $parmatchCoef = PariMatchParser::getLiveOneItem($parimatch);
+        \Yii::$app->getResponse()->format = Response::FORMAT_JSON;
+        return [
+            'olimp' => $olimpCoef,
+            'parimatch' => $parmatchCoef
+        ];
     }
 
     /**
